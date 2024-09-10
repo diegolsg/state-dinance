@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/fondo"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Contraseña"
+            android:inputType="textPassword"
+            tools:layout_editor_absoluteX="100dp"
+            tools:layout_editor_absoluteY="391dp" />
+
+        <EditText
+            android:id="@+id/telephone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Telefono"
+            android:inputType="phone"
+            tools:layout_editor_absoluteX="100dp"
+            tools:layout_editor_absoluteY="269dp" />
+
+        <EditText
+            android:id="@+id/lastNames"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Apellidos"
+            android:inputType="text"
+            tools:layout_editor_absoluteX="100dp"
+            tools:layout_editor_absoluteY="214dp" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="72dp"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/names"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Nombres"
+            android:inputType="text"
+            tools:layout_editor_absoluteX="100dp"
+            tools:layout_editor_absoluteY="153dp" />
+
+        <EditText
+            android:id="@+id/passwordVerify"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Verificación contraseña"
+            android:inputType="textPassword"
+            tools:layout_editor_absoluteX="100dp"
+            tools:layout_editor_absoluteY="448dp" />
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Email"
+            android:inputType="textEmailAddress"
+            tools:layout_editor_absoluteX="100dp"
+            tools:layout_editor_absoluteY="329dp" />
+
+        <Button
+            android:id="@+id/saveUser"
+            android:layout_width="172dp"
+            android:layout_height="56dp"
+            android:text="GUARDAR"
+            tools:layout_editor_absoluteX="119dp"
+            tools:layout_editor_absoluteY="537dp" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <TextView
+        android:id="@+id/form"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="52dp"
+        android:text="FORMULARIO"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+        android:textFontWeight="18"
+        android:textStyle="bold"
+        android:textSize="34sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

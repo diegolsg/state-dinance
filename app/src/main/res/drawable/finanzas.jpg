@@ -1,0 +1,1561 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="es" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="es" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="es" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<!--<![endif]-->
+
+<head>
+  
+  
+  <!-- $current_url = https://www.uexternado.edu.co/programa/administracion-de-empresas/finanzas-aplicadas-en-el-entorno-empresarial -->
+
+  
+      <!-- Google Tag Manager -->
+    <script>
+      (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+          'gtm.start': new Date().getTime(),
+          event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-5NW5BB8');
+    </script>
+    <!-- End Google Tag Manager -->
+  
+  <!-- Add dataLayer for custom dimension -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+      </script>
+  <!-- End add dataLayer for custom dimension -->
+
+  		<script type="application/ld+json">
+			{
+				"@context": "http://schema.org",
+				"@type": "Course",
+				"name": " Curso Finanzas aplicadas en el entorno empresarial",
+				"description": "Contenido temático:",
+				"provider": {
+					"@type": "Organization",
+					"name": "Universidad Externado de Colombia",
+					"sameAs": "https://www.uexternado.edu.co/"
+				},
+				"instructor": {
+					"@type": "Person",
+					"name": "Universidad Externado de Colombia"
+				},
+				"startDate": "",
+				"endDate": "",
+				"duration": "P2M",
+				"url": "https://www.uexternado.edu.co/programa/administracion-de-empresas/finanzas-aplicadas-en-el-entorno-empresarial/",
+				"image": "https://www.uexternado.edu.co/wp-content/uploads/2023/12/finanzas-aplicadas-1.jpg",
+				"offers": {
+					"@type": "Offer",
+					"price": "N/A",
+					"priceCurrency": "COP",
+					"availability": "http://schema.org/InStock",
+					"category": "Educación"
+				},
+				"hasCourseInstance": {
+					"@type": "CourseInstance",
+					"name": " Curso Finanzas aplicadas en el entorno empresarial",
+					"courseMode": "Onsite",
+					"startDate": "",
+					"endDate": "",
+					"url": "https://www.uexternado.edu.co/programa/administracion-de-empresas/finanzas-aplicadas-en-el-entorno-empresarial/",
+					"courseWorkload": "P5W",
+					"location": {
+						"@type": "Place",
+						"name": "Campus Principal",
+						"address": {
+							"@type": "PostalAddress",
+							"streetAddress": "Calle 12 #1-17 Este",
+							"addressLocality": "Bogotá",
+							"addressRegion": "Bogotá",
+							"addressCountry": "CO"
+						}
+					}
+				},
+				"isAccessibleForFree": false
+			}
+		</script>
+	  
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <meta name="facebook-domain-verification" content="6gaitgib91zn1phnujtsgg81x0v4q9" />
+
+  <title> &raquo;  Curso Finanzas aplicadas en el entorno empresarial</title>
+  <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+
+  <!-- Apple Fav-icon -->
+  <link rel="apple-touch-icon" sizes="57x57" href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/apple-icon-180x180.png">
+  <!-- Fav-icon -->
+  <link rel="icon" type="image/png" href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/favicon-32x32.png" sizes="32x32">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="google-site-verification" content="SUSgVv2mIcResSAmKI-XMFcCF4F0EiG4eW9ppUsVH0k" />
+
+  <meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//cdn.userway.org' />
+<link rel='dns-prefetch' href='//cdn.userconsent.org' />
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//pattern-lab-externado-prod.web.app' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.uexternado.edu.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.uexternado.edu.co/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7msm_styles-css' href='https://www.uexternado.edu.co/wp-content/plugins/contact-form-7-multi-step-module/resources/cf7msm.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7mls-css' href='https://www.uexternado.edu.co/wp-content/plugins/cf7-multi-step/assets/frontend/css/cf7mls.css?ver=2.7.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7mls_animate-css' href='https://www.uexternado.edu.co/wp-content/plugins/cf7-multi-step/assets/frontend/animate/animate.min.css?ver=2.7.7' type='text/css' media='all' />
+<link rel='stylesheet' id='fvp-frontend-css' href='https://www.uexternado.edu.co/wp-content/plugins/featured-video-plus/styles/frontend.css?ver=2.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='simplug-appopensea-css-css' href='https://www.uexternado.edu.co/wp-content/plugins/sim-openseadragon//assets/css/styleopendrag.css?ver=234234' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7cf-style-css' href='https://www.uexternado.edu.co/wp-content/plugins/cf7-conditional-fields/style.css?ver=2.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css' href='https://code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css?ver=6.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='light_gallery_style-css' href='https://pattern-lab-externado-prod.web.app/css/lightgallery.min.css?ver=2.43.38' type='text/css' media='all' />
+<link rel='stylesheet' id='animate_min_style-css' href='https://pattern-lab-externado-prod.web.app/css/animate.min.css?ver=2.43.38' type='text/css' media='all' />
+<link rel='stylesheet' id='pattern_scafflolding_style-css' href='https://pattern-lab-externado-prod.web.app/css/pattern-scaffolding.css?ver=2.43.38' type='text/css' media='all' />
+<link rel='stylesheet' id='externado_theme_style-css' href='https://pattern-lab-externado-prod.web.app/css/style.css?ver=2.43.38' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts_google_api_style-css' href='https://fonts.googleapis.com/css?family=Lato%3A100%2C100i%2C300%2C300i%2C400%2C400i%2C700%2C700i%2C900%2C900i&#038;display=swap&#038;ver=4.9.7' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/plugins/faq-uec/public/js/faq-uec-public.js?ver=1.0.0" id="Preguntas frecuentes-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/plugins/featured-video-plus/js/jquery.fitvids.min.js?ver=master-2015-08" id="jquery.fitvids-js"></script>
+<script type="text/javascript" id="fvp-frontend-js-extra">
+/* <![CDATA[ */
+var fvpdata = {"ajaxurl":"https:\/\/www.uexternado.edu.co\/wp-admin\/admin-ajax.php","nonce":"c3028e51ab","fitvids":"1","dynamic":"","overlay":"","opacity":"0.75","color":"b","width":"640"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/plugins/featured-video-plus/js/frontend.min.js?ver=2.3.3" id="fvp-frontend-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/plugins/sim-boletin-dervida/public/js/boletin-dervida-public.js?ver=1.0.0" id="Boletín Derecho y Vida-js"></script>
+<script type="text/javascript" id="sm_faq-js-extra">
+/* <![CDATA[ */
+var sm_faq_params = {"ajaxurl":"https:\/\/www.uexternado.edu.co\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/themes/externado_theme/js/faq-filter.js?ver=1.2.1" id="sm_faq-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.3" id="jquery-ui-menu-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" id="wp-a11y-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2024-08-05 19:42:40+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es"},"Notifications":["Avisos"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-includes/js/dist/a11y.min.js?ver=d90eebea464f6c09bfd5" id="wp-a11y-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.3" id="jquery-ui-autocomplete-js"></script>
+<script type="text/javascript" id="externado_theme_autocomplete-js-extra">
+/* <![CDATA[ */
+var MyAutocomplete = {"url":"https:\/\/www.uexternado.edu.co\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/themes/externado_theme/js/autocomplete.js?ver=2.43.38" id="externado_theme_autocomplete-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/themes/externado_theme/js/modals.js?ver=1.1" id="modals-js"></script>
+<link rel="https://api.w.org/" href="https://www.uexternado.edu.co/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.uexternado.edu.co/wp-json/wp/v2/programa/777406" />
+<link rel="canonical" href="https://www.uexternado.edu.co/programa/administracion-de-empresas/finanzas-aplicadas-en-el-entorno-empresarial/" />
+<link rel='shortlink' href='https://www.uexternado.edu.co/?p=777406' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.uexternado.edu.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uexternado.edu.co%2Fprograma%2Fadministracion-de-empresas%2Ffinanzas-aplicadas-en-el-entorno-empresarial%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.uexternado.edu.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uexternado.edu.co%2Fprograma%2Fadministracion-de-empresas%2Ffinanzas-aplicadas-en-el-entorno-empresarial%2F&#038;format=xml" />
+<style type="text/css">
+.no-js .native-lazyload-js-fallback {
+	display: none;
+}
+</style>
+		
+<!-- START - Open Graph and Twitter Card Tags 3.3.3 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="es_ES"/>
+  <meta property="og:site_name" content="Universidad Externado de Colombia"/>
+  <meta property="og:title" content="Curso Finanzas aplicadas en el entorno empresarial"/>
+  <meta property="og:url" content="https://www.uexternado.edu.co/programa/administracion-de-empresas/finanzas-aplicadas-en-el-entorno-empresarial/"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:description" content="Contenido temático:"/>
+  <meta property="og:image" content="https://www.uexternado.edu.co/wp-content/uploads/2023/12/finanzas-aplicadas-1.jpg"/>
+  <meta property="og:image:url" content="https://www.uexternado.edu.co/wp-content/uploads/2023/12/finanzas-aplicadas-1.jpg"/>
+  <meta property="og:image:secure_url" content="https://www.uexternado.edu.co/wp-content/uploads/2023/12/finanzas-aplicadas-1.jpg"/>
+  <meta property="article:publisher" content="https://www.facebook.com/uexternado"/>
+ <!-- Google+ / Schema.org -->
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="Curso Finanzas aplicadas en el entorno empresarial"/>
+  <meta name="twitter:url" content="https://www.uexternado.edu.co/programa/administracion-de-empresas/finanzas-aplicadas-en-el-entorno-empresarial/"/>
+  <meta name="twitter:description" content="Contenido temático:"/>
+  <meta name="twitter:image" content="https://www.uexternado.edu.co/wp-content/uploads/2023/12/finanzas-aplicadas-1.jpg"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+ <!-- SEO -->
+  <link rel="canonical" href="https://www.uexternado.edu.co/programa/administracion-de-empresas/finanzas-aplicadas-en-el-entorno-empresarial/"/>
+  <meta name="description" content="Contenido temático:"/>
+ <!-- Misc. tags -->
+ <!-- is_singular -->
+<!-- END - Open Graph and Twitter Card Tags 3.3.3 -->
+	
+<script type="application/ld+json">{"@type":"WebSite","url":"https:\/\/www.uexternado.edu.co","potentialAction":[{"@type":"SearchAction","target":"https:\/\/www.uexternado.edu.co\/?s={search_term_string}","query-input":"required name=search_term_string"},{"@type":"SearchAction","target":"https:\/\/www.uexternado.edu.co\/busqueda\/?search={search_term_string}","query-input":"required name=search_term_string"}],"@context":"https:\/\/schema.org\/"} </script><script type="application/ld+json">{"@type":"CollegeOrUniversity","name":"Universidad Externado de Colombia","address":"Calle 12 No. 1-17 Este","email":"","logo":{"@type":"ImageObject","contentUrl":"https:\/\/www.uexternado.edu.co\/wp-content\/themes\/externado_theme\/apple-icon-180x180.png","url":"https:\/\/www.uexternado.edu.co\/wp-content\/themes\/externado_theme\/apple-icon-180x180.png","width":"180 px","height":"180 px"},"telephone":"(57) 601-3537000, 601-3420288 y 601-3419900 y 3419900","url":"https:\/\/www.uexternado.edu.co","@context":"https:\/\/schema.org\/"} </script>    
+      <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-10995204800"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', 'AW-10995204800');
+    </script>
+    <!-- End Google tag (gtag.js) -->
+
+    <!-- Twitter conversion tracking base code -->
+    <script>
+      ! function(e, t, n, s, u, a) {
+        e.twq || (s = e.twq = function() {
+            s.exe ? s.exe.apply(s, arguments) : s.queue.push(arguments);
+          }, s.version = '1.1', s.queue = [], u = t.createElement(n), u.async = !0, u.src = 'https://static.ads-twitter.com/uwt.js',
+          a = t.getElementsByTagName(n)[0], a.parentNode.insertBefore(u, a))
+      }(window, document, 'script');
+      twq('config', 'ob3f2');
+    </script>
+    <!-- End Twitter conversion tracking base code -->
+
+    <!-- Remarketing Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11045793418"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+
+      gtag('config', 'AW-11045793418');
+    </script>
+    <!-- End Remarketing Google tag (gtag.js) -->
+  
+  </head>
+
+<body class="programa-template-default single single-programa postid-777406">
+      <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5NW5BB8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- Pixel -->
+          <script language='JavaScript1.1' async src='//pixel.mathtag.com/event/js?mt_id=1563240&mt_adid=248962&mt_exem=&mt_excl=&v1=&v2=&v3=&s1=&s2=&s3='></script>
+        <!-- End Pixel -->
+  
+  <span id="arriba"></span>
+  
+  
+  <header class="header">
+    <div class="centrar">
+      <a href="https://www.uexternado.edu.co" class="logo">
+  <img width="173" height="51" src="https://pattern-lab-externado-prod.web.app/images/logo-uec.svg" alt="Universidad Externado de Colombia" />
+</a>        <div class="box-ribbon">
+    <a class="ribbon ribbon-top-left" href="https://www.uexternado.edu.co/inscripciones-abiertas/">
+      <span style="color: #fcfcfc; background-color: #ec7e41;">
+        <p>Inscripciones Abiertas</p>
+      </span>
+    </a>
+  </div>
+    </div>
+    <!-- Menu -->
+    <div id="menu">
+      <div class="navegacion menu">
+        <div class="menu-principal">
+          <div class="centrar">
+            <nav aria-label="principal" class="menu-menu-principal-container">
+              <ul id="menu-menu-principal" class=""><li id="menu-item-230390" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-230390"><a href="#">La Universidad</a>
+<ul class="sub-menu">
+	<li id="menu-item-238619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238619"><a href="https://www.uexternado.edu.co/la-universidad/historia/">Misión e historia de la Universidad</a></li>
+	<li id="menu-item-348877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-348877"><a href="https://www.uexternado.edu.co/consejo-directivo/">Consejo Directivo</a></li>
+	<li id="menu-item-225921" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-225921"><a href="https://www.uexternado.edu.co/la-universidad/la-rectoria/">La Rectoría</a></li>
+	<li id="menu-item-238718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238718"><a href="https://www.uexternado.edu.co/la-universidad/gobierno-externadista/">Directivas</a></li>
+	<li id="menu-item-380965" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-380965"><a href="https://www.uexternado.edu.co/la-universidad/unidades-de-apoyo-academico/">Unidades de apoyo académico</a></li>
+	<li id="menu-item-361197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-361197"><a href="https://www.uexternado.edu.co/la-universidad/unidades-de-apoyo-administrativo/">Unidades de apoyo administrativo</a></li>
+	<li id="menu-item-535674" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-535674"><a href="https://www.uexternado.edu.co/unidad-de-genero/">Unidad de Género</a></li>
+	<li id="menu-item-480187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480187"><a href="https://www.uexternado.edu.co/interacciones-multiculturales/">Programa de Interacciones Multiculturales</a></li>
+	<li id="menu-item-452024" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-452024"><a href="https://www.uexternado.edu.co/museo-archivohistorico/">Museo &#8211; Lux Non Occidat</a></li>
+	<li id="menu-item-225923" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-225923"><a href="https://www.uexternado.edu.co/la-universidad/campus/">Campus</a></li>
+	<li id="menu-item-225925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-225925"><a href="https://directorio.uexternado.edu.co/">Directorio</a></li>
+	<li id="menu-item-225922" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-225922"><a href="https://www.uexternado.edu.co/la-universidad/gestion-del-riesgo-plan-emergencias/">Plan de emergencias</a></li>
+	<li id="menu-item-229879" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-229879"><a href="https://www.uexternado.edu.co/documentos-institucionales/">Documentos institucionales</a></li>
+	<li id="menu-item-621923" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-621923"><a href="https://www.uexternado.edu.co/informativo">Revista Informativo</a></li>
+	<li id="menu-item-621925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-621925"><a href="https://www.uexternado.edu.co/revista-experto/">Revista Experto</a></li>
+	<li id="menu-item-572873" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-572873"><a href="https://www.uexternado.edu.co/la-universidad/ser-externadista-es-sinonimo-de-excelencia/">Ser Externadista</a></li>
+</ul>
+</li>
+<li id="menu-item-78" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-78"><a href="#">Unidades académicas</a>
+<ul class="sub-menu">
+	<li id="menu-item-4084" class="menu-item menu-item-type-taxonomy menu-item-object-category current-programa-ancestor current-menu-parent current-programa-parent menu-item-4084"><a href="https://www.uexternado.edu.co/administracion-de-empresas/">Administración de Empresas</a></li>
+	<li id="menu-item-14808" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14808"><a href="https://www.uexternado.edu.co/administracion-de-empresas-turisticas-y-hoteleras/">Administración de Empresas Turísticas y Hoteleras</a></li>
+	<li id="menu-item-439211" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-439211"><a href="https://www.uexternado.edu.co/centro-idiomas-y-cultura/">Centro de Idiomas y Cultura</a></li>
+	<li id="menu-item-4086" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4086"><a href="https://www.uexternado.edu.co/ciencias-de-la-educacion/">Ciencias de la Educación</a></li>
+	<li id="menu-item-4087" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4087"><a href="https://www.uexternado.edu.co/ciencias-sociales-y-humanas/">Ciencias Sociales y Humanas</a></li>
+	<li id="menu-item-4088" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4088"><a href="https://www.uexternado.edu.co/comunicacion-social-periodismo/">Comunicación Social &#8211; Periodismo</a></li>
+	<li id="menu-item-4089" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4089"><a href="https://www.uexternado.edu.co/contaduria-publica/">Contaduría Pública</a></li>
+	<li id="menu-item-403015" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-403015"><a href="https://www.uexternado.edu.co/departamento-de-matematicas/">Departamento de Matemáticas</a></li>
+	<li id="menu-item-4091" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4091"><a href="https://www.uexternado.edu.co/derecho/">Derecho</a></li>
+	<li id="menu-item-4092" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4092"><a href="https://www.uexternado.edu.co/economia/">Economía</a></li>
+	<li id="menu-item-4093" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4093"><a href="https://www.uexternado.edu.co/estudios-del-patrimonio-cultural/">Estudios del Patrimonio Cultural</a></li>
+	<li id="menu-item-14807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14807"><a href="https://www.uexternado.edu.co/finanzas-gobierno-y-relaciones-internacionales/">Finanzas, Gobierno y Relaciones Internacionales</a></li>
+	<li id="menu-item-416294" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-416294"><a href="https://www.uexternado.edu.co/instituto-de-estudios-interdisciplinarios/">Instituto de Estudios Interdisciplinarios</a></li>
+</ul>
+</li>
+<li id="menu-item-79" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-79"><a href="#">Admisión</a>
+<ul class="sub-menu">
+	<li id="menu-item-346701" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-346701"><a href="https://www.uexternado.edu.co/admision-pregrado/aspirantes/">En busca de mi carrera profesional</a></li>
+	<li id="menu-item-4043" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4043"><a href="https://www.uexternado.edu.co/admision-pregrado/">Programas de Pregrado</a></li>
+	<li id="menu-item-4042" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4042"><a href="https://www.uexternado.edu.co/admision-posgrado/">Programas de Posgrado</a></li>
+	<li id="menu-item-211364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211364"><a href="https://www.uexternado.edu.co/admision-educacion-continuada/">Programas de Educación Continuada</a></li>
+	<li id="menu-item-269508" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-269508"><a href="https://www.uexternado.edu.co/cise/">CISE &#8211; Centro de información y Soluciones Externadista</a></li>
+	<li id="menu-item-10546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10546"><a href="https://www.uexternado.edu.co/busqueda/">Encuentre su Programa</a></li>
+	<li id="menu-item-361190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-361190"><a href="https://www.uexternado.edu.co/apoyo-financiero/">Apoyo Financiero</a></li>
+	<li id="menu-item-348483" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-348483"><a href="https://serviciosdigitales.uexternado.edu.co/uexternado.edu.co~app~fica_web/zpagos/webapp/index.html">Pagos en línea e impresión de recibos</a></li>
+</ul>
+</li>
+<li id="menu-item-849597" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-849597"><a href="#">Biblioteca</a>
+<ul class="sub-menu">
+	<li id="menu-item-849596" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-849596"><a href="https://www.uexternado.edu.co/biblioteca">Biblioteca Externadista</a></li>
+	<li id="menu-item-849598" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-849598"><a href="https://podcast.uexternado.edu.co/">Externado Podcast</a></li>
+</ul>
+</li>
+<li id="menu-item-80" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-80"><a href="#">Investigación</a>
+<ul class="sub-menu">
+	<li id="menu-item-621104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-621104"><a href="https://www.uexternado.edu.co/investigacion-uec">Investigación UEC</a></li>
+	<li id="menu-item-480664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-480664"><a href="https://investigacion.uexternado.edu.co/WebSite/">Invextigación</a></li>
+	<li id="menu-item-480663" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-480663"><a href="https://www.uexternado.edu.co/delfos-centro-analisis-datos/">Delfos &#8211; Centro de Análisis de Datos</a></li>
+	<li id="menu-item-760961" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-760961"><a href="https://www.uexternado.edu.co/centro-externadista-de-paz/">Centro Externadista de Paz</a></li>
+	<li id="menu-item-497632" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-497632"><a href="https://www.uexternado.edu.co/catedra-unesco/">Cátedra Unesco «Derechos Humanos y violencia: gobierno y gobernanza»</a></li>
+	<li id="menu-item-622325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-622325"><a href="https://www.uexternado.edu.co/catedra-unesco-en-estudios-de-futuros-para-el-desarrollo-y-la-competitividad">Cátedra Unesco en Estudios de Futuros para el Desarrollo y la Competitividad</a></li>
+</ul>
+</li>
+<li id="menu-item-265780" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-265780"><a href="https://micomunidadvirtual.uexternado.edu.co/">Comunidad Virtual</a></li>
+</ul>            </nav>
+          </div>
+        </div>
+
+        <div class="menu-superior">
+          <div class="centrar">
+            <nav aria-label="secundario">
+              <ul id="menu-menu-top" class="tipo-usuario"><li id="menu-item-238347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-238347"><a href="#">Estudiantes</a>
+<ul class="sub-menu">
+	<li id="menu-item-504299" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-504299"><a href="https://www.uexternado.edu.co/saber-pro/">¡Llegó la hora de las Pruebas Saber Pro!</a></li>
+	<li id="menu-item-238350" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-238350"><a href="https://www.uexternado.edu.co/estudiantes-de-pregrado/">Pregrado</a></li>
+	<li id="menu-item-238357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238357"><a href="https://www.uexternado.edu.co/la-universidad/estudiantes-de-posgrado/">Posgrado</a></li>
+	<li id="menu-item-384059" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-384059"><a href="https://www.uexternado.edu.co/eleccion-representantes-estudiantiles/">Representantes estudiantiles ante el Consejo Directivo de la Universidad Externado de Colombia</a></li>
+	<li id="menu-item-238383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238383"><a href="https://www.uexternado.edu.co/consejo-estudiantil/">Consejo Estudiantil</a></li>
+	<li id="menu-item-352402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-352402"><a href="https://www.uexternado.edu.co/dirtic/servicios-y-beneficios-tecnologicos/">Beneficios Tecnológicos</a></li>
+	<li id="menu-item-863629" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-863629"><a href="https://dashboard-externado-x3tpvlwrsq-uc.a.run.app/">Tablero Estudiantil</a></li>
+	<li id="menu-item-61775" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61775"><a href="https://serviciosdigitales.uexternado.edu.co/portalpazsalvos/index.html">Paz y Salvos</a></li>
+	<li id="menu-item-137021" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-137021"><a href="https://serviciosdigitales.uexternado.edu.co/Pestudiante/index.html">Actualizar Datos</a></li>
+	<li id="menu-item-336600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-336600"><a href="https://app.uexternado.edu.co/login">App UExternado</a></li>
+</ul>
+</li>
+<li id="menu-item-238402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-238402"><a href="#">Egresados</a>
+<ul class="sub-menu">
+	<li id="menu-item-238405" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-238405"><a href="https://www.uexternado.edu.co/oficina-de-egresados/">Oficina de Egresados</a></li>
+	<li id="menu-item-472060" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-472060"><a href="https://www.uexternado.edu.co/cppe/">Centro de Carrera</a></li>
+	<li id="menu-item-238409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-238409"><a href="http://exalumnos.uexternado.edu.co/">Asociación de Antiguos Alumnos</a></li>
+	<li id="menu-item-412728" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-412728"><a href="https://www.uexternado.edu.co/dirtic/beneficios-tecnologicos-egresados/">Beneficios tecnológicos</a></li>
+	<li id="menu-item-389912" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-389912"><a href="https://app.uexternado.edu.co/login">App UExternado</a></li>
+</ul>
+</li>
+<li id="menu-item-170581" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-170581"><a href="#">Docentes</a>
+<ul class="sub-menu">
+	<li id="menu-item-211361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211361"><a href="https://www.uexternado.edu.co/docentes/">Avante</a></li>
+	<li id="menu-item-193327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193327"><a href="https://serviciosdigitales.uexternado.edu.co/irj/servlet/prt/portal/prtroot/pcd!3aportal_content!2fGestionDocentes!2fGestDocente?sap-config-mode=true">Gestión Docentes</a></li>
+	<li id="menu-item-200255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-200255"><a href="https://www.uexternado.edu.co/consejo-de-profesores-3/">Consejo de Profesores</a></li>
+	<li id="menu-item-422349" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-422349"><a href="https://www.uexternado.edu.co/dirtic/beneficios-tecnologicos/">Beneficios Tecnológicos</a></li>
+	<li id="menu-item-268967" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-268967"><a href="https://serviciosdigitales.uexternado.edu.co/uexternado.edu.co~home~autoserv_empleado/index.html">Autoservicio Docentes</a></li>
+	<li id="menu-item-336602" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-336602"><a href="https://app.uexternado.edu.co/login">App UExternado</a></li>
+	<li id="menu-item-343231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-343231"><a href="https://www.uexternado.edu.co/direccion-de-recursos-humanos">Dirección de Talento Humano</a></li>
+</ul>
+</li>
+<li id="menu-item-211362" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-211362"><a href="https://appnav-prod.sia.uexternado.edu.co/applicationNavigator/saml/login">Administrativos</a>
+<ul class="sub-menu">
+	<li id="menu-item-233676" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-233676"><a href="https://appnav-prod.sia.uexternado.edu.co/applicationNavigator">Gestión Académica Avante &#8211; Banner</a></li>
+	<li id="menu-item-277809" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-277809"><a href="https://uexternadocrm.elluciancrmrecruit.com/?whr=https://eis-prod.sia.uexternado.edu.co:443/samlsso">Gestión de Admisiones Avante &#8211; Recruit</a></li>
+	<li id="menu-item-252158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-252158"><a href="https://maps-prod.sia.uexternado.edu.co/">Gestión de Reportes &#8211; Argos</a></li>
+	<li id="menu-item-233677" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-233677"><a href="https://uexternadoedu-my.sharepoint.com/personal/biblioteca_avante_uexternado_edu_co/_layouts/15/onedrive.aspx?viewid=b5556fa2%2D6401%2D4ce6%2D95b9%2D38f9385449ef&#038;id=%2Fpersonal%2Fbiblioteca%5Favante%5Fuexternado%5Fedu%5Fco%2FDocuments%2FManuales%20Administrativos">Manuales de consulta Avante</a></li>
+	<li id="menu-item-422348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-422348"><a href="https://www.uexternado.edu.co/dirtic/beneficios-tecnologicos-administrativos/">Beneficios Tecnológicos</a></li>
+	<li id="menu-item-268966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-268966"><a href="https://serviciosdigitales.uexternado.edu.co/uexternado.edu.co~home~autoserv_empleado/index.html">Autoservicio Empleados</a></li>
+	<li id="menu-item-336603" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-336603"><a href="https://app.uexternado.edu.co/login">App UExternado</a></li>
+	<li id="menu-item-343230" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-343230"><a href="https://www.uexternado.edu.co/direccion-de-recursos-humanos">Dirección de Talento Humano</a></li>
+	<li id="menu-item-482343" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-482343"><a href="https://uexternado.isolucion.co">Sistema Gestión UEX</a></li>
+</ul>
+</li>
+<li id="menu-item-391184" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-391184"><a href="https://www.uexternado.edu.co/activa-la-app-uexternado-aqui/">App UExternado</a></li>
+<li id="menu-item-395155" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-395155"><a href="#">Correo</a>
+<ul class="sub-menu">
+	<li id="menu-item-446063" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-446063"><a href="https://mail.office365.com/uexternado.edu.co">Ingresar al correo electrónico</a></li>
+	<li id="menu-item-446064" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-446064"><a href="https://autogestion.uexternado.edu.co/">Recuperación de usuario y contraseña</a></li>
+	<li id="menu-item-447603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-447603"><a href="https://www.uexternado.edu.co/dtd/tutoriales-acceso-al-correo-institucional-y-cambio-de-contrasena/"><span style="padding-right:3px;color: #78b82f;"><svg class="icon icon-video"><use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-video"></use></svg></span> Video tutoriales</a></li>
+</ul>
+</li>
+<li id="menu-item-397202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-397202"><a href="https://serviciosdigitales.uexternado.edu.co/uexternado.edu.co~app~fica_web/zpagos/webapp/index.html">Pagos en línea</a></li>
+<li id="menu-item-403437" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-403437"><a href="https://www.uexternado.edu.co/apoyo-financiero/">Apoyo financiero</a></li>
+</ul>
+
+              <div class="botonera">
+                <ul class="otros-sitios">
+                  <li class="boton-accesos"><a href="#">Más <span>	<svg class="icon  icon-mas">
+		<use xlink:href="https://pattern-lab-externado-prod.web.app/images/iconos.svg#icon-mas">
+		</use>
+	</svg>
+</span></a>
+                    <ul id="menu-menu-top-right" class="accesos-rapidos"><li id="menu-item-375127" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-375127"><a href="https://www.uexternado.edu.co/bienestar-universitario/">TU Bienestar</a></li>
+<li id="menu-item-375128" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-375128"><a href="https://publicaciones.uexternado.edu.co/">Publicaciones</a></li>
+<li id="menu-item-375130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-375130"><a href="https://www.uexternado.edu.co/international/">International</a></li>
+</ul>                  </li>
+                </ul>
+              </div>
+            </nav>
+          </div>
+
+                      <div class="idioma-buscador">
+              <form class="buscador" role="search" method="get" action="https://www.uexternado.edu.co/">
+  <input type="search" id="search-input-field" placeholder="" value="" name="s" aria-label="Buscar">
+  <span>
+    <svg class="icon icon-lupa">
+      <use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-lupa"></use>
+    </svg>
+  </span>
+  <input type="hidden" id="_wpnonce_sfh" name="_wpnonce_sfh" value="2a5fd83a44" /></form>
+            </div>
+                  </div>
+      </div>
+    </div>
+    <div id="responsive-menu"></div>
+  </header>
+<div class="faculty-administracion-de-empresas faculty-defecto">
+  <section class="secondary-header-menu" aria-label="encabezado">
+  <div class="centrar">
+    <a href="https://www.uexternado.edu.co/administracion-de-empresas/">
+      <div class="h3">
+        Administración de Empresas      </div>
+    </a>
+  </div>
+      <div class="menu-secundario">
+      <div class="centrar">
+        <a href="#" class="show-secondary-menu">
+          Menú          <span>
+            <svg class="icon icon-abajo">
+              <use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-abajo">
+              </use>
+            </svg>
+          </span>
+        </a>
+        <nav class="menu" aria-label="menu-secundario">
+          <ul id="menu-administracion-de-empresas" class=""><li id="menu-item-868736" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-868736"><a href="#">¿Quiénes somos?</a>
+<ul class="sub-menu">
+	<li id="menu-item-868737" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868737"><a href="https://www.uexternado.edu.co/administracion-de-empresas/historia-de-la-facultad-de-administracion-de-empresas/">Historia de la Facultad</a></li>
+	<li id="menu-item-868739" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868739"><a href="https://www.uexternado.edu.co/administracion-de-empresas/decanatura-de-la-facultad/">Decanatura</a></li>
+	<li id="menu-item-868743" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868743"><a href="https://www.uexternado.edu.co/administracion-de-empresas/consejo-directivo/">Consejo Directivo</a></li>
+	<li id="menu-item-872278" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-872278"><a href="http://www.uexternado.edu.co/wp-content/uploads/2017/01/PAF-ADMINISTRACION-2011.pdf">Proyecto Académico</a></li>
+	<li id="menu-item-868744" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868744"><a href="https://www.uexternado.edu.co/administracion-de-empresas/mision-y-vision/">Misión y visión</a></li>
+	<li id="menu-item-868745" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868745"><a href="https://www.uexternado.edu.co/administracion-de-empresas/directorio/">Directorio</a></li>
+</ul>
+</li>
+<li id="menu-item-868746" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-868746"><a href="#">Quiero estudiar</a>
+<ul class="sub-menu">
+	<li id="menu-item-868747" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868747"><a href="https://www.uexternado.edu.co/programa/administracion-de-empresas/administracion-de-empresas/">Pregrado en Administración de Empresas</a></li>
+	<li id="menu-item-868748" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868748"><a href="https://www.uexternado.edu.co/programa/administracion-de-empresas/doctorado-administracion-empresas/">Doctorado en Administración</a></li>
+	<li id="menu-item-868749" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868749"><a href="https://www.uexternado.edu.co/administracion-de-empresas/maestrias/">Maestrías</a></li>
+	<li id="menu-item-868750" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868750"><a href="https://www.uexternado.edu.co/administracion-de-empresas/especializaciones/">Especializaciones</a></li>
+	<li id="menu-item-868751" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868751"><a href="https://www.uexternado.edu.co/administracion-de-empresas/international-courses/">International Courses</a></li>
+	<li id="menu-item-868752" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868752"><a href="https://www.uexternado.edu.co/administracion-de-empresas/programas-de-educacion-continuada/">Educación Continuada</a></li>
+</ul>
+</li>
+<li id="menu-item-868753" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-868753"><a href="#">Soy estudiante</a>
+<ul class="sub-menu">
+	<li id="menu-item-868754" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868754"><a href="https://www.uexternado.edu.co/administracion-de-empresas/soy-estudiante-pregrado/">Pregrado</a></li>
+	<li id="menu-item-868755" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868755"><a href="https://www.uexternado.edu.co/administracion-de-empresas/soy-estudiante-posgrado/">Posgrado</a></li>
+	<li id="menu-item-868756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868756"><a href="https://www.uexternado.edu.co/administracion-de-empresas/programas-de-educacion-continuada/">Educación Continuada</a></li>
+</ul>
+</li>
+<li id="menu-item-868757" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-868757"><a href="#">Soy egresado</a>
+<ul class="sub-menu">
+	<li id="menu-item-868758" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868758"><a href="https://www.uexternado.edu.co/administracion-de-empresas/privilegios/">Mis privilegios FAE</a></li>
+	<li id="menu-item-868759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868759"><a href="https://bolsadeempleo.uexternado.edu.co/#/login">Bolsa de Empleo</a></li>
+	<li id="menu-item-868760" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868760"><a href="http://exalumnos.uexternado.edu.co/">Asociación de Antiguos Alumnos</a></li>
+</ul>
+</li>
+<li id="menu-item-868761" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868761"><a href="https://www.uexternado.edu.co/administracion-de-empresas/privilegios/">Mis privilegios</a></li>
+<li id="menu-item-868763" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-868763"><a href="#">Investigación</a>
+<ul class="sub-menu">
+	<li id="menu-item-871679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-871679"><a href="https://www.uexternado.edu.co/administracion-de-empresas/encuentro-internacional-de-investigadores-en-administracion/">Encuentro internacional de Investigación</a></li>
+	<li id="menu-item-871684" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-871684"><a href="#">Área temática 1: Liderazgo, pensamiento estratégico y prospectiva</a></li>
+	<li id="menu-item-871685" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-871685"><a href="#">Área temática 2: Gestión Organizacional</a></li>
+	<li id="menu-item-871686" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-871686"><a href="#">Área temática 3: Entorno y sostenibilidad</a></li>
+	<li id="menu-item-871683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-871683"><a href="https://www.uexternado.edu.co/catedra-unesco-en-estudios-de-futuros-para-el-desarrollo-y-la-competitividad">Cátedra UNESCO</a></li>
+</ul>
+</li>
+<li id="menu-item-868776" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-868776"><a href="#">Dirección de Extensión FAE</a>
+<ul class="sub-menu">
+	<li id="menu-item-868775" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868775"><a href="https://www.uexternado.edu.co/administracion-de-empresas/direccion-desarrollo-gerencial-ddg/">Dirección de Extensión FAE</a></li>
+	<li id="menu-item-868777" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868777"><a href="https://www.uexternado.edu.co/administracion-de-empresas/nuestros-clientes/">Nuestros clientes</a></li>
+	<li id="menu-item-868778" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868778"><a href="https://www.uexternado.edu.co/administracion-de-empresas/asesoria-y-consulta/">Asesoría y Consultoría</a></li>
+	<li id="menu-item-868779" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868779"><a href="https://www.uexternado.edu.co/administracion-de-empresas/red-de-suministro-responsable/">Red de Suministro Responsable</a></li>
+	<li id="menu-item-868780" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868780"><a href="https://www.uexternado.edu.co/administracion-de-empresas/asesoria-y-consultoria-para-pymes/">Asesoría y consultoría para Pymes</a></li>
+	<li id="menu-item-868784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868784"><a href="https://www.uexternado.edu.co/administracion-de-empresas/caracteristicas-de-nuestros-servicios/">Características de Nuestros Servicios</a></li>
+</ul>
+</li>
+<li id="menu-item-868822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-868822"><a href="#">Contáctenos</a>
+<ul class="sub-menu">
+	<li id="menu-item-868819" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868819"><a href="https://www.uexternado.edu.co/administracion-de-empresas/contactenos/">Formulario de contacto</a></li>
+	<li id="menu-item-868823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868823"><a href="https://www.uexternado.edu.co/administracion-de-empresas/directorio/">Directorio</a></li>
+</ul>
+</li>
+</ul>        </nav>
+      </div>
+    </div>
+  </section>
+<div id="responsive-secondary-menu"></div>
+<section aria-label="imagen de portada">
+   <article class="item img-lead  administracion">
+     <figure
+       class="ajuste-imagen imagen-destacada imagen-destacada-facultad ">
+              <img loading="lazy" src="https://www.uexternado.edu.co/wp-content/uploads/2023/12/finanzas-aplicadas-1.jpg" srcset="https://www.uexternado.edu.co/wp-content/uploads/2023/12/finanzas-aplicadas-1.jpg 1300w, https://www.uexternado.edu.co/wp-content/uploads/2023/12/finanzas-aplicadas-1-300x200.jpg 300w, https://www.uexternado.edu.co/wp-content/uploads/2023/12/finanzas-aplicadas-1-1024x683.jpg 1024w, https://www.uexternado.edu.co/wp-content/uploads/2023/12/finanzas-aplicadas-1-768x512.jpg 768w, https://www.uexternado.edu.co/wp-content/uploads/2023/12/finanzas-aplicadas-1-457x305.jpg 457w, https://www.uexternado.edu.co/wp-content/uploads/2023/12/finanzas-aplicadas-1-450x300.jpg 450w, https://www.uexternado.edu.co/wp-content/uploads/2023/12/finanzas-aplicadas-1-380x253.jpg 380w" sizes="(max-width: 1300px) 100vw, 1300px" alt="" loading="lazy"/>     </figure>
+        </article>
+</section>
+  <div class="contenedor">
+    <main>
+      <div class="centrar">
+        <article class="columna08 contenido texto">
+          <h1><span style="visibility: hidden; display: none;"> Curso </span>Finanzas aplicadas en el entorno empresarial</h1>
+          <div class="modulo-programa">
+            <div class="submodulo-programa">
+              <p>
+                	<svg class="icon  icon-pin-location">
+		<use xlink:href="https://pattern-lab-externado-prod.web.app/images/iconos.svg#icon-pin-location">
+		</use>
+	</svg>
+                Bogotá                <!-- virtual -->- virtual              </p>
+              <p>
+                	<svg class="icon  icon-reloj">
+		<use xlink:href="https://pattern-lab-externado-prod.web.app/images/iconos.svg#icon-reloj">
+		</use>
+	</svg>
+                42 horas                ( (Blended TEAMS o  ZOOM) )              </p>
+                            <!-- $inscriptions_meta_value = bool(false)
+ -->
+                          </div>
+          </div>
+                    <html>
+<head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head>
+<body>
+<div class="columnas-alto-fijo centrar-flex">
+<div class="columna07"><a class="boton-icono btn-icon-round" href="https://wa.me/573212340277">
+<span><svg class="icon icon-whatsapp"><use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-whatsapp"></use></svg></span><p>Solicita asesoría por WhatsApp</p>
+<span><svg class="icon icon-derecha"><use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-derecha"></use></svg></span>
+</a></div>
+</div>
+<div class="programs"><div class="info">
+<p><div class="tabs" id="tab-font"><a href="" id="objetivos">Objetivos</a><a href="" id="dirigido-a">Dirigido a</a><a href="" id="programacion-de-clases">Programación de clases</a></div><div class="links"><div class="section"><a href="" class="title">Objetivos</a><div class="box centrar objetivos "></p>
+<ul type="disc">
+<li>Apropiarse de herramientas financieras que le permitan mejorar la estructura de su negocio.</li>
+<li>Aprender a gestionar decisiones de corto y largo plazo para maximizar los resultados financieros.</li>
+<li>Comprender los conceptos fundamentales de las finanzas empresariales.</li>
+</ul>
+<p></div></div><div class="section"><a href="" class="title">Dirigido a</a><div class="box centrar dirigido-a "></p>
+<p><span lang="es">El curso está dirigido a </span><span lang="es-MX">Empresarios, emprendedores y personas que desarrollan funciones directivas al interior de una empresa de cualquier tamaño y de cualquier sector</span></p>
+<p></div></div><div class="section"><a href="" class="title">Programación de clases</a><div class="box centrar programacion-de-clases "></p>
+<p>Las clases se desarrollarán los Lunes y Miércoles 6:00 pm a 9:00 pm</p>
+<p> </p>
+<table border="0" cellspacing="0" cellpadding="0"><tbody>
+<tr>
+<td>
+<p align="center"><b>SESIÓN</b></p>
+</td>
+<td>
+<p align="center"><b>FECHAS</b></p>
+</td>
+<td>
+<p align="center"><b>HORA</b></p>
+</td>
+<td>
+<p align="center"><b>INTENSIDAD</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">miércoles, 31 de julio de 2024</p>
+</td>
+<td>
+<p align="center">6:00 pm – 9:00 pm</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2</p>
+</td>
+<td>
+<p align="center">lunes, 5 de agosto de 2024</p>
+</td>
+<td>
+<p align="center">6:00 pm – 9:00 pm</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p align="center">lunes, 12 de agosto de 2024</p>
+</td>
+<td>
+<p align="center">6:00 pm – 9:00 pm</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">4</p>
+</td>
+<td>
+<p align="center">miércoles, 14 de agosto de 2024</p>
+</td>
+<td>
+<p align="center">6:00 pm – 9:00 pm</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">5</p>
+</td>
+<td>
+<p align="center">miércoles, 21 de agosto de 2024</p>
+</td>
+<td>
+<p align="center">6:00 pm – 9:00 pm</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">6</p>
+</td>
+<td>
+<p align="center">lunes, 26 de agosto de 2024</p>
+</td>
+<td>
+<p align="center">6:00 pm – 9:00 pm</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">7</p>
+</td>
+<td>
+<p align="center">miércoles, 28 de agosto de 2024</p>
+</td>
+<td>
+<p align="center">6:00 pm – 9:00 pm</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">8</p>
+</td>
+<td>
+<p align="center">lunes, 2 de septiembre de 2024</p>
+</td>
+<td>
+<p align="center">6:00 pm – 9:00 pm</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">9</p>
+</td>
+<td>
+<p align="center">miércoles, 4 de septiembre de 2024</p>
+</td>
+<td>
+<p align="center">6:00 pm – 9:00 pm</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">10</p>
+</td>
+<td>
+<p align="center">lunes, 9 de septiembre de 2024</p>
+</td>
+<td>
+<p align="center">6:00 pm – 9:00 pm</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">11</p>
+</td>
+<td>
+<p align="center">miércoles, 11 de septiembre de 2024</p>
+</td>
+<td>
+<p align="center">6:00 pm – 9:00 pm</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">12</p>
+</td>
+<td>
+<p align="center">lunes, 16 de septiembre de 2024</p>
+</td>
+<td>
+<p align="center">6:00 pm – 9:00 pm</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">13</p>
+</td>
+<td>
+<p align="center">miércoles, 18 de septiembre de 2024</p>
+</td>
+<td>
+<p align="center">6:00 pm – 9:00 pm</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">14</p>
+</td>
+<td>
+<p align="center">lunes, 23 de septiembre de 2024</p>
+</td>
+<td>
+<p align="center">6:00 pm – 9:00 pm</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+</tbody></table>
+<p><b>Nota:</b> La Universidad se reserva el derecho de suspender o postergar el inicio de clases de acuerdo con la acogida que reciba la convocatoria e incorporar modificaciones en el horario, calendario académico y cuerpo docente.</p>
+<p></div></div></div></p>
+<p><div class="tabs" id="tab-font"><a href="" id="metodologia">Metodología</a><a href="" id="docente">Docente</a><a href="" id="informacion-general">Información general</a></div><div class="links"><div class="section"><a href="" class="title">Metodología</a><div class="box centrar metodologia "></p>
+<p>Este es un curso en el que tres ramas del conocimiento: las matemáticas financieras, la contabilidad y las finanzas, confluyen para evidenciar cómo se puede generar valor a la empresa.</p>
+<p>Obtendrá los conocimientos necesarios para entender que todas las decisiones de negocio influyen en los resultados esperados y por tanto en el éxito del mismo; no es necesario tener conocimientos profundos en la materia, pues se partirá desde lo básico y esencial.</p>
+<p><strong>Usted debería tomar este curso si quiere:</strong></p>
+<ul type="disc">
+<li>Entender el impacto de sus decisiones en la generación de rentabilidad.</li>
+<li>Saber cómo puede apalancar el crecimiento de su negocio para lograr un crecimiento sostenible en el tiempo.</li>
+<li>Gestionar su inversión en el corto y en el largo plazo.</li>
+<li>Definir cuál es la <span lang="es">estrategia financiera de su compañía</span>
+</li>
+</ul>
+<p></div></div><div class="section"><a href="" class="title">Docente</a><div class="box centrar docente "></p>
+<p><strong><span lang="es">Paola Andrea García Espinosa</span></strong></p>
+<p><span lang="es">Magíster en Gestión en Evaluación de Proyectos de Inversión. Fundadora de Catapulta Consultoría Integral.</span></p>
+<p><span lang="es">Con 10 años de experiencia en el sector real como líder de procesos financieros relacionados con modelación financiera , análisis financieros, elaboración de presupuestos, flujo de caja y formulación de proyectos. </span></p>
+<p><span lang="es">Certificación CQRM – en Administración de Riesgos y Gestión de Proyectos Prince 2.</span></p>
+<p aria-hidden="true"></div></div><div class="section"><a href="" class="title">Información general</a><div class="box centrar informacion-general "></p>
+<p> El desarrollo de las clases serán virtuales</p>
+<ul>
+<li>
+<b>Inicio de clases: </b> miércoles, 31 de Julio 2024</li>
+<li>
+<b>Horario: </b><span lang="es">Lunes – miércoles de 6:00 pm a 9:00 pm.</span>
+</li>
+<li>
+<b>Inscripciones abiertas hasta </b><span lang="es">Hasta el 26 de Julio 2024</span>
+</li>
+<li>
+<b>Valor de la inversión: </b>$1.920.000</li>
+</ul>
+<p><strong>Medios de pago:</strong> efectivo, tarjeta de crédito, débito a cuenta corriente o de ahorros a través de la plataforma de pagos PSE</p>
+<p><strong>Certificado de Asistencia:</strong> Quienes completen con la asistencia mínima del 80% con relación al total de horas programadas</p>
+<p></div></div></div></p>
+<p><div class="tabs" id="tab-font"><a href="" id="solicitud-de-informacion">Solicitud de información</a></div><div class="links"><div class="section"><a href="" class="title">Solicitud de información</a><div class="box centrar solicitud-de-informacion "></p>
+<p>Para mayor información del programa y realizar el proceso de inscripción le invitamos a comunicarse con nosotros a través de:<br aria-hidden="true">Correo: <a href="mailto:Educacion.continua@uexternado.edu.co" data-linkindex="4">Educacion.continua@uexternado.edu.co</a> Teléfono: (601) 3419900 ext. 1247</p>
+<p></div></div></div></div></div>
+</p>
+<p><b>Contenido temático:</b></p>
+<div class="modulo-acordeon-content"><div id="acordeon-content" role="tablist" aria-multiselectable="true" ><br>
+<div class="panel"><div role="tab" id="modulo-1-conceptos-claves-de-las-finanzas-empresariales"><div class="titulo-acordeon"><a role="button" data-toggle="collapse" data-parent="#acordeon-content" href="#item-modulo-1-conceptos-claves-de-las-finanzas-empresariales" aria-expanded="false"    aria-controls="item-modulo-1-conceptos-claves-de-las-finanzas-empresariales" class="collapsed"><h4><b>Módulo 1. Conceptos claves de las Finanzas empresariales</b></h4><span class="flecha"><svg class="icon icon-abajo"><use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-abajo"></use></svg></span></a></div></div><div id="item-modulo-1-conceptos-claves-de-las-finanzas-empresariales" class="info collapse" role="tabpanel" aria-labelledby="modulo-1-conceptos-claves-de-las-finanzas-empresariales">
+<ul type="disc">
+<li>Conceptos básicos de finanzas: ingresos, costo, gasto, liquidez, costo de oportunidad.</li>
+<li>Estructura financiera de un negocio (rentabilidad, fuentes de financiación, caja)</li>
+</ul>
+<p></div></div>
+<div class="panel"><div role="tab" id="modulo-2-como-rentabilizar-mi-idea-de-negocio-precios-costo-y-gastos"><div class="titulo-acordeon"><a role="button" data-toggle="collapse" data-parent="#acordeon-content" href="#item-modulo-2-como-rentabilizar-mi-idea-de-negocio-precios-costo-y-gastos" aria-expanded="false"    aria-controls="item-modulo-2-como-rentabilizar-mi-idea-de-negocio-precios-costo-y-gastos" class="collapsed"><h4><b>Módulo 2. ¿Cómo rentabilizar mi idea de negocio? Precios, costo y gastos</b></h4><span class="flecha"><svg class="icon icon-abajo"><use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-abajo"></use></svg></span></a></div></div><div id="item-modulo-2-como-rentabilizar-mi-idea-de-negocio-precios-costo-y-gastos" class="info collapse" role="tabpanel" aria-labelledby="modulo-2-como-rentabilizar-mi-idea-de-negocio-precios-costo-y-gastos"></p>
+<ul type="disc">
+<li>Determinar el costo real del producto</li>
+<li>Fundamento de costos: fijos, variables</li>
+<li>Gastos de ventas y administrativos</li>
+<li>Punto de equilibrio</li>
+<li>Determinar la rentabilidad</li>
+</ul>
+<p></div></div>
+<div class="panel"><div role="tab" id="modulo-3-herramientas-financieras"><div class="titulo-acordeon"><a role="button" data-toggle="collapse" data-parent="#acordeon-content" href="#item-modulo-3-herramientas-financieras" aria-expanded="false"    aria-controls="item-modulo-3-herramientas-financieras" class="collapsed"><h4><b>Módulo 3. Herramientas financieras</b><b> </b></h4><span class="flecha"><svg class="icon icon-abajo"><use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-abajo"></use></svg></span></a></div></div><div id="item-modulo-3-herramientas-financieras" class="info collapse" role="tabpanel" aria-labelledby="modulo-3-herramientas-financieras"></p>
+<ul type="disc">
+<li>Indicadores financieros:  liquidez, operación, rentabilidad y solvencia</li>
+<li>Tasas de interés</li>
+<li>Fórmulas financieras de Excel</li>
+</ul>
+<p></div></div>
+<div class="panel"><div role="tab" id="modulo-4-gestion-financiera-de-corto-plazo"><div class="titulo-acordeon"><a role="button" data-toggle="collapse" data-parent="#acordeon-content" href="#item-modulo-4-gestion-financiera-de-corto-plazo" aria-expanded="false"    aria-controls="item-modulo-4-gestion-financiera-de-corto-plazo" class="collapsed"><h4><b>Módulo 4. Gestión financiera de corto plazo</b></h4><span class="flecha"><svg class="icon icon-abajo"><use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-abajo"></use></svg></span></a></div></div><div id="item-modulo-4-gestion-financiera-de-corto-plazo" class="info collapse" role="tabpanel" aria-labelledby="modulo-4-gestion-financiera-de-corto-plazo"></p>
+<ul type="disc">
+<li><span lang="es">Decisiones de operación, inversión y financiación.</span></li>
+<li><span lang="es">Administración del capital de trabajo: cuentas por cobrar, cuentas por pagar e inventarios.</span></li>
+</ul>
+<p></div></div>
+<div class="panel"><div role="tab" id="modulo-5-gestion-financiera-de-largo-plazo"><div class="titulo-acordeon"><a role="button" data-toggle="collapse" data-parent="#acordeon-content" href="#item-modulo-5-gestion-financiera-de-largo-plazo" aria-expanded="false"    aria-controls="item-modulo-5-gestion-financiera-de-largo-plazo" class="collapsed"><h4><b>Módulo 5. Gestión financiera de largo plazo</b></h4><span class="flecha"><svg class="icon icon-abajo"><use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-abajo"></use></svg></span></a></div></div><div id="item-modulo-5-gestion-financiera-de-largo-plazo" class="info collapse" role="tabpanel" aria-labelledby="modulo-5-gestion-financiera-de-largo-plazo"></p>
+<ul type="disc">
+<li><span lang="es">¿Es óptimo tomar deuda?</span></li>
+<li><span lang="es">Deuda como palanca de crecimiento</span></li>
+<li><span lang="es">Estructura de capital</span></li>
+<li><span lang="es">Crecer de forma sostenible</span></li>
+<li><span lang="es">Tablas de amortización</span></li>
+</ul>
+<p></div></div>
+<div class="panel"><div role="tab" id="modulo-6-estrategia-financiera"><div class="titulo-acordeon"><a role="button" data-toggle="collapse" data-parent="#acordeon-content" href="#item-modulo-6-estrategia-financiera" aria-expanded="false"    aria-controls="item-modulo-6-estrategia-financiera" class="collapsed"><h4><b>Módulo 6. Estrategia financiera</b></h4><span class="flecha"><svg class="icon icon-abajo"><use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-abajo"></use></svg></span></a></div></div><div id="item-modulo-6-estrategia-financiera" class="info collapse" role="tabpanel" aria-labelledby="modulo-6-estrategia-financiera"></p>
+<ul type="disc">
+<li><span lang="es">Decisiones financieras: causas y efectos</span></li>
+<li><span lang="es">Cómo definir su estrategia financiera</span></li>
+<li><span lang="es">Lecciones aprendidas de otras empresas</span></li>
+</ul>
+<p></div></div></p>
+<p></div></div>
+<a class="boton-icono btn-icon-round" href="https://serviciosdigitales.uexternado.edu.co/uexternado.edu.co~app~fica_web/zpagos/webapp/index.html">
+<span><svg class="icon icon-check"><use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-check"></use></svg></span><p>Inscríbete aquí</p>
+<span><svg class="icon icon-derecha"><use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-derecha"></use></svg></span>
+</a>
+</p>
+</body>
+</html>        </article>
+        <aside class="columna04 aside">
+  
+  
+        <div class=" modulo-acordeon">
+      <div id="acordeon-programa" role="tablist" aria-multiselectable="true">
+                
+                
+                
+                                    <!-- Titulo otorgado-->
+          <div class="panel">
+            <div role="tab" id="titulo-1">
+              <div class="titulo-acordeon">
+                <a role="button" data-toggle="collapse" href="#tituloOtorgado" aria-controls="tituloOtorgado" class="collapsed" data-parent="#acordeon-programa" aria-expanded="false">
+                  <span>
+                    <svg class="icon icon-diploma">
+                      <use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-diploma"></use>
+                    </svg>
+                  </span>
+                  <div class="h4">Título otorgado</div>
+                  <span class="flecha">
+                    <svg class="icon icon-abajo">
+                      <use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-abajo"></use>
+                    </svg>
+                  </span>
+                </a>
+              </div>
+            </div>
+            <div id="tituloOtorgado" role="tabpanel" class="info collapse " aria-expanded="false" aria-labelledby="titulo-1">
+              *Quienes completen con la asistencia mínima del 80% con relación al total de horas programadas recibirá un certificado de asistencia en el Finanzas aplicadas en el entorno empresarial            </div>
+          </div>
+          <!-- /Titulo otorgado-->
+        
+                                    <!-- Jornada-->
+          <div class="panel">
+            <div role="tab" id="titulo-2">
+              <div class="titulo-acordeon">
+                <a role="button" data-toggle="collapse" href="#jornada" aria-controls="jornada" class="collapsed" data-parent="#acordeon-programa" aria-expanded="false">
+                  <span>
+                    <svg class="icon icon-jornada">
+                      <use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-jornada"></use>
+                    </svg>
+                  </span>
+                  <div class="h4">Horario</div>
+                  <span class="flecha">
+                    <svg class="icon icon-abajo">
+                      <use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-abajo"></use>
+                    </svg>
+                  </span>
+                </a>
+              </div>
+            </div>
+            <div id="jornada" role="tabpanel" class="info collapse " aria-expanded="false" aria-labelledby="titulo-2">
+              <p>Lunes y Miércoles 6:00 pm a 9:00 pm</p>
+            </div>
+          </div>
+          <!-- /Jornada-->
+        
+                                    <!-- Fechas importantes-->
+          <div class="panel">
+            <div role="tab" id="titulo-3">
+              <div class="titulo-acordeon">
+                <a role="button" data-toggle="collapse" href="#fechasImportantes" aria-controls="fechasImportantes" class="collapsed" data-parent="#acordeon-programa" aria-expanded="false">
+                  <span>
+                    <svg class="icon icon-calendario-02">
+                      <use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-calendario-02"></use>
+                    </svg>
+                  </span>
+                  <div class="h4">Fechas importantes</div>
+                  <span class="flecha">
+                    <svg class="icon icon-abajo">
+                      <use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-abajo"></use>
+                    </svg>
+                </a>
+              </div>
+            </div>
+            <div id="fechasImportantes" role="tabpanel" class="info collapse " aria-labelledby="titulo-3" aria-expanded="false">
+              <p><strong>Inicio de clases:</strong>  miércoles, 31 de Julio de 2024</p>
+<p><strong>Horario:</strong> Lunes – miércoles de 6:00 pm a 9:00 pm.</p>
+<p><strong>Inscripciones abiertas:</strong> Hasta el 26 de Julio de 2024</p>
+            </div>
+          </div>
+          <!-- /Fechas importantes-->
+        
+                
+                
+                                    <!-- Modulo de información -->
+          <div class="panel">
+            <div role="tab" id="titulo-4">
+              <div class="titulo-acordeon">
+                <a role="button" data-toggle="collapse" href="#informacion" aria-controls="informacion" class="" data-parent="#acordeon-programa" aria-expanded="true">
+                  <span>
+                    <svg class="icon icon-info">
+                      <use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-info"></use>
+                    </svg>
+                  </span>
+                  <div class="h4">Información</div>
+                  <span class="flecha">
+                    <svg class="icon icon-abajo">
+                      <use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-abajo"></use>
+                    </svg>
+                  </span>
+                </a>
+              </div>
+            </div>
+            <div id="informacion" role="tabpanel" class="info collapse in" aria-expanded="true" aria-labelledby="titulo-4">
+              <p><!-- Form - SUMR CRM --><iframe id="SUMR-FM-72d60a1a113ee0012754ec294f0a5ce50592d737" width="100%" frameborder="0" data-icon="ok" data-width="100%"></iframe> <script async> (function(w,d,s,l){ var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:''; j.async=true; j.src= 'https://js.sumr.co/mdl/uexternado/72d60a1a113ee0012754ec294f0a5ce50592d737.js'; f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer'); </script></p>
+            </div>
+          </div>
+          <!-- /Modulo de información -->
+        
+                
+                
+        
+        
+                
+                
+        
+                                    <!-- Modulo de Contacto-->
+          <div class="panel">
+            <div role="tab" id="titulo-5">
+              <div class="titulo-acordeon">
+                <a role="button" data-toggle="collapse" href="#contacto" aria-controls="contacto" class="collapsed" data-parent="#acordeon-programa" aria-expanded="false">
+                  <span>
+                    <svg class="icon icon-telefono">
+                      <use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-telefono"></use>
+                    </svg>
+                  </span>
+                  <div class="h4">Contacto</div>
+                  <span class="flecha">
+                    <svg class="icon icon-abajo">
+                      <use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-abajo"></use>
+                    </svg>
+                  </span>
+                </a>
+              </div>
+            </div>
+            <div id="contacto" role="tabpanel" class="info collapse " aria-expanded="false" aria-labelledby="titulo-5">
+              <p><strong>Correo: </strong><a href="mailto:Educacion.continua@uexternado.edu.co" data-linkindex="5">Educacion.continua@uexternado.edu.co</a></p>
+<p><strong> Teléfono:</strong> (601) 3419900 ext. 1247</p>
+            </div>
+          </div>
+          <!-- /Modulo de Contacto-->
+        
+                                    <!-- Modulo de compartir-->
+          <div class="panel">
+            <div role="tab" id="titulo-6">
+              <div class="titulo-acordeon">
+                <a role="button" data-toggle="collapse" href="#compartir" aria-controls="compartir" class="collapsed" data-parent="#acordeon-programa" aria-expanded="false">
+                  <span>
+                    <svg class="icon icon-compartir-01">
+                      <use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-compartir-01"></use>
+                    </svg>
+                  </span>
+                  <div class="h4">Compartir</div>
+                  <span class="flecha">
+                    <svg class="icon icon-abajo">
+                      <use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-abajo"></use>
+                    </svg>
+                  </span>
+                </a>
+              </div>
+            </div>
+            <div id="compartir" role="tabpanel" class="info collapse " aria-expanded="false" aria-labelledby="titulo-6">
+              <div class="compartir-redes">
+                <a href="" onclick="openFacebookPopup(); return false;" class="icon-facebook">
+                  <svg class=" icon-facebook">
+                    <use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-facebook"></use>
+                  </svg>
+                </a>
+                <a href="" onclick="openTwitterPopup('<span style="visibility: hidden; display: none;"> Curso </span>Finanzas aplicadas en el entorno empresarial'); return false;" class="icon-twitter">
+                  <svg class=" icon-twitter">
+                    <use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-twitter"></use>
+                  </svg>
+                </a>
+                <a href="" onclick="openLinkedInPopup();return false;" class="icon-linkedin">
+                  <svg class=" icon-linkedin">
+                    <use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-linkedin"></use>
+                  </svg>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- /Modulo de compartir-->
+              </div>
+    </div>
+  
+    <div id="block-5" class="widget widget_block">
+<div class="wpcf7 no-js" id="wpcf7-f547071-p777406-o1" lang="es-ES" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/programa/administracion-de-empresas/finanzas-aplicadas-en-el-entorno-empresarial/#wpcf7-f547071-p777406-o1" method="post" class="wpcf7-form init cf7mls-no-scroll cf7mls-auto-return-first-step cf7mls-no-moving-animation" aria-label="Formulario de contacto" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="547071" />
+<input type="hidden" name="_wpcf7_version" value="5.7.7" />
+<input type="hidden" name="_wpcf7_locale" value="es_ES" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f547071-p777406-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="777406" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_wpcf7cf_hidden_group_fields" value="[]" />
+<input type="hidden" name="_wpcf7cf_hidden_groups" value="[]" />
+<input type="hidden" name="_wpcf7cf_visible_groups" value="[]" />
+<input type="hidden" name="_wpcf7cf_repeaters" value="[]" />
+<input type="hidden" name="_wpcf7cf_steps" value="{}" />
+<input type="hidden" name="_wpcf7cf_options" value="{&quot;form_id&quot;:547071,&quot;conditions&quot;:[],&quot;settings&quot;:{&quot;animation&quot;:&quot;yes&quot;,&quot;animation_intime&quot;:200,&quot;animation_outtime&quot;:200,&quot;conditions_ui&quot;:&quot;normal&quot;,&quot;notice_dismissed&quot;:false,&quot;notice_dismissed_update-cf7-5.8.2&quot;:true,&quot;notice_dismissed_update-cf7-5.8.6&quot;:true,&quot;notice_dismissed_update-cf7-5.8.7&quot;:true,&quot;notice_dismissed_update-cf7-5.9.3&quot;:true,&quot;notice_dismissed_update-cf7-5.9.5&quot;:true,&quot;notice_dismissed_update-cf7-5.9.7&quot;:true,&quot;notice_dismissed_update-cf7-5.9.8&quot;:true}}" />
+<input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</div>
+<div class="widget-call-button">
+	<p><a href="#" class="boton-icono"><span><img decoding="async" alt="" class="icon" src="https://www.uexternado.edu.co/wp-content/uploads/2022/08/telefono.svg" /></span>Solicitar una Llamada Telefónica <span><img decoding="async" width="25" alt="" class="icon" src="https://www.uexternado.edu.co/wp-content/uploads/2022/08/derecha-1.svg" /></span></a>
+	</p>
+	<section id="contactarme" style="margin-top: -23px;">
+		<p><label> Nombre completo:<br />
+<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="your-name" /></span> </label><br />
+<label> Teléfono:<br />
+<span class="wpcf7-form-control-wrap" data-name="your-telephone"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="your-telephone" /></span> </label><br />
+<label> Correo electrónico:<br />
+<span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="your-email" /></span> </label><br />
+<input class="wpcf7-form-control has-spinner wpcf7-submit" type="submit" value="Contactarme" />
+		</p>
+	</section>
+</div>
+<div class="widget-contact-button-group" style="margin-top: 0;border-color: #f2f2f2;">
+	<div class="politica-datos">
+		<p>Con el envío de su información de contacto, autoriza a la <a title="Ver Política de tratamiento de los datos personales" href="https://www.uexternado.edu.co/politicasdeprivacidad/" target="_blank">Universidad</a> o a quien ella encargue, para contactarlo por este medio.
+		</p>
+		<p>Nuestro horario de atención es de lunes a viernes de 8:00 a.m. a 5:00 p.m. y sábados de 8:00 a.m. a 12:00 m. Atenderemos su consulta tan pronto estemos disponibles.
+		</p>
+	</div>
+</div><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+</div><div id="custom_html-121" class="widget_text widget widget-custom-html"><div class="textwidget custom-html-widget"><a class="boton-icono" href="https://serviciosdigitales.uexternado.edu.co/uexternado.edu.co~app~fica_web/zpagos/webapp/index.html">
+<span><svg class="icon icon-cerrar-sesion"><use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-cerrar-sesion"></use></svg></span><p>Pagar</p>
+<span><svg class="icon icon-derecha"><use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-derecha"></use></svg></span>
+</a> 
+
+<br>
+
+<!-- <a class="boton" href="https://uexternadoedu-my.sharepoint.com/:b:/g/personal/centrodeidiomas_uexternado_edu_co/EUvpLqSYXLhBpGF7NWk_X1YBbmHN56jPytF1mNwKgpjVIQ?e=6sQHae">Instructivo de pago</a>
+
+<div style="clear: both"></div>
+
+ <hr> --></div></div>  
+  <div id="div-publicidad" class="publicidad-rectangular modulo-admanager">
+  </div>
+</aside>
+      </div>
+    </main>
+  </div>
+  
+  <aside class="informacion-facultad" aria-label="Información de la facultad">
+    <div class="centrar">
+      <div class="titulo">
+        <span>
+          <svg class="icon icon-info">
+            <use xlink:href="https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/iconos.svg#icon-info"></use>
+          </svg>
+        </span>
+        <div class="h3">Administración de Empresas</div>
+      </div>
+
+              <div class="info">
+          <div class="columna12">
+<p style="margin: 0 0 15px 0 !important;"><strong>Dirección:</strong><br />
+Calle 12 No. 1-17 Este. Bogotá, Colombia.</p>
+<p style="margin: 0 0 15px 0 !important;"><strong>Teléfonos:</strong><br />
+(57 1) 3420288 y 3419900, exts.: 1212-1213.</p>
+<p style="margin: 0 0 15px 0 !important;"><strong>Posgrados:</strong><a href="mailto:posgrados.fae@uexternado.edu.co">posgrados.fae@uexternado.edu.co</a></p>
+<p style="margin: 0 0 15px 0 !important;"><strong>Pregrado:</strong><a href="mailto:pregrado.admin@uexternado.edu.co">pregrado.admin@uexternado.edu.co</a></p>
+<p style="margin: 0 0 15px 0 !important;"><strong>Egresados:</strong><a href="mailto:egresados.fae@uexternado.edu.co">egresados.fae@uexternado.edu.co</a></p>
+<p style="margin: 0 0 15px 0 !important;"><strong>Educación continuada:</strong><a href="mailto:educontinuada.fae@uexternado.edu.co" rel="noopener">educontinuada.fae@uexternado.edu.co</a></p>
+<p style="margin: 0 0 15px 0 !important;"><strong>Horario de atención: </strong><br />
+Lunes a viernes de 7:00 a.m. a 6:00 p.m.<br />
+y sábados de 7:00 a.m. a 1:00 p.m.</p>
+</div>
+<div class="columna12">
+<p style="text-align: center;"><strong>Acreditaciones Internacionales</strong><br />
+<img decoding="async" style="padding: 5px 12px;" src="https://www.uexternado.edu.co/wp-content/uploads/2022/05/aacsb-logo-accredited-small.png" alt="aacsb" width="85px" /><img decoding="async" style="padding: 5px 12px;" src="https://www.uexternado.edu.co/wp-content/uploads/2020/11/AMBA-logo-stacked-black-accredited-330x305.png" alt="Amba" width="85px" /><img decoding="async" style="padding: 5px 12px;" src="https://www.uexternado.edu.co/wp-content/uploads/2017/02/equaa.png" alt="Acreditación EQUAA" width="90px" /></p>
+<p style="margin: 0;"><strong>Miembros de:</strong></p>
+<div class="columna12" style="text-align: center;"><span style="padding: 12px 12px;"><img decoding="async" class=" fadein" style="margin-top: 10px;" src="https://www.uexternado.edu.co/wp-content/uploads/2018/08/1-aacsb.png" alt="AACSB" width="92px" /></span> <span style="padding: 12px 12px;"><img decoding="async" class=" fadein" style="margin-top: 10px;" src="https://www.uexternado.edu.co/wp-content/uploads/2019/01/2-amba.png" alt="AMBA" width="92px" /></span> <span style="padding: 12px 12px;"><img decoding="async" class=" fadein" style="margin-top: 10px;" src="https://www.uexternado.edu.co/wp-content/uploads/2018/08/2-prme.png" alt="PRME" width="92px" /></span> <span style="padding: 12px 12px;"><img decoding="async" class=" fadein" style="margin-top: 10px;" src="https://www.uexternado.edu.co/wp-content/uploads/2018/09/3-cladea.png" alt="Cladea" width="75px" /></span> <span style="padding: 12px 12px;"><img decoding="async" class=" fadein" style="margin-top: 10px;" src="https://www.uexternado.edu.co/wp-content/uploads/2020/07/4-efmd-v2.png" alt="EFMD" width="120px" /></span> <span style="padding: 12px 12px;"><img decoding="async" class=" fadein" style="margin-top: 10px;" src="https://www.uexternado.edu.co/wp-content/uploads/2018/08/5-recla.png" alt="Recla" width="90px" /></span> <span style="padding: 12px 12px;"><img decoding="async" class=" fadein" style="margin-top: 10px;" src="https://www.uexternado.edu.co/wp-content/uploads/2018/08/7-bopglobal.png" alt="BoP Global Network" width="75px" /></span></div>
+</div>
+<div class="columna12" style="text-align: center; border-top: 1px solid #9C9C9C; margin-top: 20px; padding-top: 10px;">
+<p style="margin: 0 0 10px 0px;"><strong>ODS priorizados por la Facultad de Administración de Empresas:</strong></p>
+<p><span style="padding: 5px;"><img decoding="async" src="https://www.uexternado.edu.co/wp-content/uploads/2019/10/4-educacion-calidad.png" alt="" width="60px" /></span><span style="padding: 5px;"><img decoding="async" src="https://www.uexternado.edu.co/wp-content/uploads/2019/10/5-igualdad-genero.png" alt="" width="60px" /></span> <span style="padding: 5px;"><img decoding="async" src="https://www.uexternado.edu.co/wp-content/uploads/2019/10/8-trabajo-decente.png" alt="" width="60px" /></span> <span style="padding: 5px;"><img decoding="async" src="https://www.uexternado.edu.co/wp-content/uploads/2019/10/9-industria-innovacion.png" alt="" width="60px" /></span> <span style="padding: 5px;"><img decoding="async" src="https://www.uexternado.edu.co/wp-content/uploads/2019/10/12-produccion-consumo.png" alt="" width="60px" /></span> <span style="padding: 5px;"><img decoding="async" src="https://www.uexternado.edu.co/wp-content/uploads/2019/10/16-paz-justicia.png" alt="" width="60px" /></span> <span style="padding: 5px;"><img decoding="async" src="https://www.uexternado.edu.co/wp-content/uploads/2019/10/17-alianzas-lograr-objetivos.png" alt="" width="60px" /></span></p>
+</div>
+        </div>
+      
+      
+      <div class="redes-sociales">
+                    <a class="icono" href="https://www.facebook.com/UExternado.AdministraciondeEmpresas/" aria-label="facebook">
+              <span>
+                	<svg class="icon  icon-facebook">
+		<use xlink:href="https://pattern-lab-externado-prod.web.app/images/iconos.svg#icon-facebook">
+		</use>
+	</svg>
+              </span>
+            </a>
+                              <a class="icono" href="https://twitter.com/FAEexternado" aria-label="twitter">
+              <span>
+                	<svg class="icon  icon-twitter">
+		<use xlink:href="https://pattern-lab-externado-prod.web.app/images/iconos.svg#icon-twitter">
+		</use>
+	</svg>
+              </span>
+            </a>
+                              <a class="icono" href="https://www.youtube.com/user/FAEUEC" aria-label="youtube">
+              <span>
+                	<svg class="icon  icon-youtube">
+		<use xlink:href="https://pattern-lab-externado-prod.web.app/images/iconos.svg#icon-youtube">
+		</use>
+	</svg>
+              </span>
+            </a>
+                              <a class="icono" href="https://www.linkedin.com/showcase/10936650/" aria-label="linkedin">
+              <span>
+                	<svg class="icon  icon-linkedin">
+		<use xlink:href="https://pattern-lab-externado-prod.web.app/images/iconos.svg#icon-linkedin">
+		</use>
+	</svg>
+              </span>
+            </a>
+                                </div>
+    </div>
+  </aside>
+</div>
+<footer class="footer-general">
+      <script>
+      jQuery(window).load(function() {
+        jQuery(window).scroll(); // We do this to trick the Lazyload plugin into thinking that it has to double check what images to load.
+      });
+    </script>
+  
+  <div class="centrar">
+    <div class="columna04">
+      <a href="https://www.uexternado.edu.co" class="logo">
+  <img width="173" height="51" src="https://pattern-lab-externado-prod.web.app/images/logo-uec.svg" alt="Universidad Externado de Colombia" />
+</a>      <p>Universidad Externado de Colombia <br />
+              Teléfonos: (57) 601-3537000, 601-3420288 y 601-3419900 <br />
+              Calle 12 No. 1-17 Este. Bogotá, Colombia. <br />        <a href="https://www.google.com/maps/dir/?api=1&destination=4.595396931089274,-74.06859487596876" target="_blank" title="¿Cómo llegar con Google Maps?">¿Cómo llegar con Google Maps?</a>
+        <a href="https://waze.com/ul?ll=4.595362117944574,-74.06841622902715&navigate=yes" target="_blank" title="¿Cómo llegar con Waze?">¿Cómo llegar con Waze?</a>
+      </p>
+
+      <nav class="documentos">
+        <h4>
+          <a href="https://www.uexternado.edu.co/documentos-institucionales/">Documentos institucionales</a>
+        </h4>
+        <ul>
+          <li>
+            <a href="https://www.uexternado.edu.co/resoluciones-de-acreditacion-y-proyectos-academicos/">Resoluciones de acreditación</a>
+          </li>
+          <li>
+            <a href="https://www.uexternado.edu.co/proyectos-academicos/">Proyectos académicos</a>
+          </li>
+          <li>
+            <a href="https://www.uexternado.edu.co/derechos-pecuniarios/">Derechos Pecuniarios</a>
+          </li>
+          <li>
+            <a href="https://www.uexternado.edu.co/estatutos-y-reglamentos/">Estatutos y reglamentos</a>
+          </li>
+          <li>
+            <a href="https://www.uexternado.edu.co/otros-documentos/">Otros</a>
+          </li>
+        </ul>
+      </nav>
+      <a href="https://www.uexternado.edu.co/politicasdeprivacidad/">Política de tratamiento de los datos personales</a>
+      <a href="https://www.uexternado.edu.co/info-transparencia-externado/">Transparencia y acceso a la información pública</a>
+      <div class="columna04">
+        <nav class="sgs-acreditacion">
+          <a target="_blank" href="https://www.uexternado.edu.co/wp-content/uploads/2024/08/UNIVERSIDAD-EXTERNADO-DE-COLOMBIA-9001-2024.pdf">
+            <img width="95" src="https://pattern-lab-externado-prod.web.app/images/iso-9001-icontec.svg" alt="System Certification ISO 9001:2000">
+          </a>
+        </nav>
+      </div>
+      <div class="columna06">
+        <nav class="icontec-certification" style="margin-top: 1rem;">
+          <a target="_blank" href="https://www.uexternado.edu.co/wp-content/uploads/2024/04/UNIVERSIDAD-EXTERNADO-DE-COLOMBIA-CS-CER280864-Cert-2.pdf">
+            <img width="100" src="https://pattern-lab-externado-prod.web.app/images/NTC5906.svg">
+          </a>
+        </nav>
+      </div>
+    </div>
+    <div class="columna04">
+      <nav class="contactenos">
+                  <nav class="contactenos">
+<h4>Contáctenos</h4>
+<ul>
+ 	<li><a href="https://www.uexternado.edu.co/solicitud-de-informacion/">Buzón de información</a></li>
+ 	<li><a href="https://directorio.uexternado.edu.co/">Directorio de docentes y funcionarios</a></li>
+ 	<li style="margin-bottom: 15px;"><a href="mailto:notificacionesjudiciales@uexternado.edu.co">Notificaciones judiciales: notificacionesjudiciales@uexternado.edu.co</a></li>
+ 	<li style="border-top: 1px solid #4d7b19;"><a style="margin-top: 12px;" href="https://externado.analitica.com.co/AZDigital/Indices/FORMULARIO_VUR/Publica/index.php">Propuestas y relaciones interinstitucionales</a></li>
+</ul>
+</nav>
+<div class="columna12" style="border-top: 1px solid #4d7b19; width: 375px;">
+<div class="columna04"><a style="margin-top: 12px;" href="https://externado.analitica.com.co/AZDigital/Indices/FORMULARIO_VUR/Publica/index.php"><img style="height: 40px; margin-bottom: 20px;" src="https://www.uexternado.edu.co/wp-content/uploads/2024/04/vur-logo.png" alt="" /></a></div>
+<div class="columna06"><a style="margin-top: 22px;" href="https://externado.analitica.com.co/AZDigital/Indices/FORMULARIO_VUR/Publica/index.php">Radicación Virtual – VUR</a></div>
+</div>              </nav>
+      <nav class="visitenos">
+        <div class="h4">Visite la Universidad</div>
+        <img loading="lazy" src="https://pattern-lab-externado-prod.web.app/images/footer-campus.png" alt="Campus Externado" class="foto-derecha">
+
+        <ul>
+          <li><a href="https://www.uexternado.edu.co/la-universidad-externado-de-colombia/como-llegar/">Rutas de acceso</a>
+          </li>
+          <li><a href="https://www.uexternado.edu.co/parqueaderos/">Parqueaderos</a>
+          </li>
+          <li><a href="https://www.uexternado.edu.co/mapa-del-campus/">Mapa del campus</a>
+          </li>
+          <li><a href="https://www.uexternado.edu.co/recorrido-aereo-por-la-universidad/">Recorrido aéreo</a>
+          </li>
+          <li><a href="https://www.uexternado.edu.co/la-universidad/el-externado-entrega-mas-espacios-para-la-libertad/">Edificios H e I</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+    <div class="columna04">
+      <nav>
+        <div class="h4">Síganos en las redes sociales</div>
+        <div class="redes-sociales">
+          <a href="https://www.facebook.com/uexternado" class="icono">
+            <span>	<svg class="icon  icon-facebook">
+		<use xlink:href="https://pattern-lab-externado-prod.web.app/images/iconos.svg#icon-facebook">
+		</use>
+	</svg>
+</span>
+          </a>
+
+          <a href="https://twitter.com/UExternado" class="icono">
+            <span>	<svg class="icon  icon-twitter">
+		<use xlink:href="https://pattern-lab-externado-prod.web.app/images/iconos.svg#icon-twitter">
+		</use>
+	</svg>
+</span>
+          </a>
+
+          <a href="http://www.youtube.com/externadodecolombia" class="icono">
+            <span>	<svg class="icon  icon-youtube">
+		<use xlink:href="https://pattern-lab-externado-prod.web.app/images/iconos.svg#icon-youtube">
+		</use>
+	</svg>
+</span>
+          </a>
+
+          <a href="https://www.linkedin.com/edu/school?id=11601&trk=tyah&trkInfo=clickedVertical:school,clickedEntityId:11601,idx:4-1-11,tarId:1484858838825,tas:externado%20" class="icono">
+            <span>	<svg class="icon  icon-linkedin">
+		<use xlink:href="https://pattern-lab-externado-prod.web.app/images/iconos.svg#icon-linkedin">
+		</use>
+	</svg>
+</span>
+          </a>
+
+          <a href="https://instagram.com/uexternado/" class="icono">
+            <span>	<svg class="icon  icon-instagram">
+		<use xlink:href="https://pattern-lab-externado-prod.web.app/images/iconos.svg#icon-instagram">
+		</use>
+	</svg>
+</span>
+          </a>
+        </div>
+      </nav>
+      <nav>
+                  <nav>
+<h4>Servicios académicos</h4>
+<ul>
+ 	<li><a class="ga4-click-event" href="https://mail.office365.com/uexternado.edu.co">Correo electrónico</a>
+<div><a class="texto-" href="https://autogestion.uexternado.edu.co/"><small><strong>Recuperación de contraseña</strong></small></a></div>
+<div><a class="ga4-click-event" href="https://www.uexternado.edu.co/dirtic/tutoriales-acceso-al-correo-institucional-y-cambio-de-contrasena/"><small><strong>Tutoriales: ingreso al correo y restablecimiento de contraseña</strong></small></a></div></li>
+ 	<li><a href="https://www.uexternado.edu.co/la-universidad/certificacion-de-calidad/">Encuestas de Autoevaluación</a></li>
+ 	<li><a href="https://www.uexternado.edu.co/docentes-y-proveedores/">Información de pagos para docentes y proveedores</a></li>
+ 	<li><a href="https://uexternadoedu.sharepoint.com/sites/registroyacreditacion/Paginas/home.aspx">Sistema SAREX</a></li>
+ 	<li><a href="https://uexternado.isolucion.co">Sistema Gestión UEX</a></li>
+ 	<li><a class="boton" style="font-size: 1rem; line-height: 1.1rem;" href="https://serviciosdigitales.uexternado.edu.co/uexternado.edu.co~app~fica_web/zpagos/webapp/index.html">Pagos en línea e
+impresión de recibos</a></li>
+</ul>
+</nav>
+
+<hr />
+
+<a href="https://www.daviviendaenelexternado.com"><img src="https://www.uexternado.edu.co/wp-content/uploads/2023/01/davivienda-1.png" alt="" /></a>
+<a href="https://www.daviviendaenelexternado.com">Davivienda: más cerca de la comunidad externadista</a>              </nav>
+    </div>
+    <nav>
+      <div class="h5" style="clear: left; text-align:  center;">
+        <span style="color: #78b92f; font-size: 1.125rem; margin: 0 6px 0 0;">
+          	<svg class="icon  icon-check">
+		<use xlink:href="https://pattern-lab-externado-prod.web.app/images/iconos.svg#icon-check">
+		</use>
+	</svg>
+        </span>
+        Acreditación Institucional de Alta Calidad (8 años) - Resolución 006538 de abril 2021, Ministerio de Educación Nacional      </div>
+    </nav>
+  </div>
+
+  <div class="vigilado-men">
+    <div class="h4">
+      <a style="pointer-events: none;" href="">
+        VIGILADA MINEDUCACIÓN      </a>
+    </div>
+    <span>Personería Jurídica: Resolución 92 de marzo 9 de 1926, expedida por el Ministerio de Gobierno</span>
+  </div>
+</footer>
+<script>
+              (function(e){
+                  var el = document.createElement('script');
+                  el.setAttribute('data-account', 'iHNAxqHVWV');
+                  el.setAttribute('src', 'https://cdn.userway.org/widget.js');
+                  document.body.appendChild(el);
+                })();
+              </script><script type="text/javascript">
+( function() {
+	var nativeLazyloadInitialize = function() {
+		var lazyElements, script;
+		if ( 'loading' in HTMLImageElement.prototype ) {
+			lazyElements = [].slice.call( document.querySelectorAll( '.native-lazyload-js-fallback' ) );
+			lazyElements.forEach( function( element ) {
+				if ( ! element.dataset.src ) {
+					return;
+				}
+				element.src = element.dataset.src;
+				delete element.dataset.src;
+				if ( element.dataset.srcset ) {
+					element.srcset = element.dataset.srcset;
+					delete element.dataset.srcset;
+				}
+				if ( element.dataset.sizes ) {
+					element.sizes = element.dataset.sizes;
+					delete element.dataset.sizes;
+				}
+				element.classList.remove( 'native-lazyload-js-fallback' );
+			} );
+		} else if ( ! document.querySelector( 'script#native-lazyload-fallback' ) ) {
+			script = document.createElement( 'script' );
+			script.id = 'native-lazyload-fallback';
+			script.type = 'text/javascript';
+			script.src = 'https://www.uexternado.edu.co/wp-content/plugins/native-lazyload/assets/js/lazyload.js';
+			script.defer = true;
+			document.body.appendChild( script );
+		}
+	};
+	if ( document.readyState === 'complete' || document.readyState === 'interactive' ) {
+		nativeLazyloadInitialize();
+	} else {
+		window.addEventListener( 'DOMContentLoaded', nativeLazyloadInitialize );
+	}
+}() );
+</script>
+		<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.uexternado.edu.co\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.7" id="contact-form-7-js"></script>
+<script type="text/javascript" id="cf7msm-js-extra">
+/* <![CDATA[ */
+var cf7msm_posted_data = {"_wpcf7cf_hidden_group_fields":"[]","_wpcf7cf_hidden_groups":"[]","_wpcf7cf_visible_groups":"[]"};
+var cf7msm_redirect_urls = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/plugins/contact-form-7-multi-step-module/resources/cf7msm.min.js?ver=4.4" id="cf7msm-js"></script>
+<script type="text/javascript" id="cf7mls-js-extra">
+/* <![CDATA[ */
+var cf7mls_object = {"ajax_url":"https:\/\/www.uexternado.edu.co\/wp-json\/","is_rtl":"","disable_submit":"true","cf7mls_error_message":"","scroll_step":"true","scroll_first_error":"true","disable_enter_key":"false","check_step_before_submit":"true"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/plugins/cf7-multi-step/assets/frontend/js/cf7mls.js?ver=2.7.7" id="cf7mls-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/plugins/sim-openseadragon//openseadragon/openseadragon.min.js?ver=234234" id="simplug-opensea-js-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/plugins/sim-openseadragon//assets/js/appvisor.js?ver=234234" id="simplug-appopensea-js-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/plugins/sm-integrative-project-cpt/public/js/sm-integrative-project-cpt-public.js?ver=1.0.0" id="Proyectos integradores-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/themes/externado_theme/js/Blob.js?ver=1.0.0" id="uec-blob-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/themes/externado_theme/js/FileSaver.js?ver=1.0.0" id="uec-file-saver-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/themes/externado_theme/js/ics.js?ver=1.0.0" id="uec-ics-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/themes/externado_theme/js/add-to-calendar.js?ver=1.0.0" id="uec-add-to-calendar-js"></script>
+<script type="text/javascript" id="wpcf7cf-scripts-js-extra">
+/* <![CDATA[ */
+var wpcf7cf_global_settings = {"ajaxurl":"https:\/\/www.uexternado.edu.co\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=2.4.15" id="wpcf7cf-scripts-js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6Ld7ba0UAAAAAJ_uKplEzfshdsm84Rj-cFPlidys&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-extra">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6Ld7ba0UAAAAAJ_uKplEzfshdsm84Rj-cFPlidys","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.7.7" id="wpcf7-recaptcha-js"></script>
+<script type="text/javascript" id="externado_theme_functions-js-extra">
+/* <![CDATA[ */
+var icon = "<svg class=\"icon icon-abajo\"><use xlink:href=\"https:\/\/www.uexternado.edu.co\/wp-content\/themes\/externado_theme\/images\/iconos.svg#icon-abajo\"><\/use><\/svg>";
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/themes/externado_theme/js/functions.js?ver=2.43.38" id="externado_theme_functions-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/themes/externado_theme/js/popups.js?ver=2.43.38" id="externado_theme_popups-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/themes/externado_theme/js/externado-tabs.js?ver=2.43.38" id="externado-tabs-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/themes/externado_theme/js/modernizr-2.8.3.min.js?ver=1.2" id="externado-modernizr-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/themes/externado_theme/js/plugins.js?ver=1.4" id="plugins-js-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3" id="jquery-ui-resizable-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3" id="jquery-ui-draggable-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.3" id="jquery-ui-controlgroup-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.3" id="jquery-ui-checkboxradio-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-includes/js/jquery/ui/button.min.js?ver=1.13.3" id="jquery-ui-button-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.3" id="jquery-ui-dialog-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/themes/externado_theme/js/scripts.min.js?ver=2.43.38" id="script-min-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/themes/externado_theme/js/recursos-digitales.js?ver=2.43.38" id="recursos_digitales-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/themes/externado_theme/js/archivo-digital-cepess.js?ver=2.43.38" id="archivo_digital_cepess-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/themes/externado_theme/js/whatsapp-widget.js?ver=1.2" id="whatsapp-widget-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/themes/externado_theme/js/vendor/jquery.fitvids.js?ver=1.0" id="jquery-fit-vids-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/themes/externado_theme/js/fit.divs.js?ver=1.0" id="fit-divs-js"></script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3" id="jquery-ui-datepicker-js"></script>
+<script type="text/javascript" id="jquery-ui-datepicker-js-after">
+/* <![CDATA[ */
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Cerrar","currentText":"Hoy","monthNames":["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"monthNamesShort":["Ene","Feb","Mar","Abr","May","Jun","Jul","Ago","Sep","Oct","Nov","Dic"],"nextText":"Siguiente","prevText":"Anterior","dayNames":["domingo","lunes","martes","mi\u00e9rcoles","jueves","viernes","s\u00e1bado"],"dayNamesShort":["Dom","Lun","Mar","Mi\u00e9","Jue","Vie","S\u00e1b"],"dayNamesMin":["D","L","M","X","J","V","S"],"dateFormat":"d MM, yy","firstDay":1,"isRTL":false});});
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.uexternado.edu.co/wp-content/themes/externado_theme/js/nav-mobile.js?ver=2.43.38" id="externado_nav_mobile-js"></script>
+<script type="text/javascript" src="https://cdn.userway.org/widget.js?account=iHNAxqHVWV&amp;ver=1.0.1" id="userway-widget-js"></script>
+<script type="text/javascript" data-user-consent-account="iHNAxqHVWV" src="https://cdn.userconsent.org/user_consent.js?ver=1.0.1" id="userway-user-consent-js"></script>
+
+<script>
+  var i = new Image,
+    u = "https://s3-sa-east-1.amazonaws.com/frame-image-br/bg.png?x-id=343cb7a235ef2da1b07817a6e423d9aa&xr=" + document.referrer + "&x-s=" + window.location.href;
+  i.src = u;
+</script>
+</body>
+
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de objetos 0/0 objetos usando Memcached
+Almacenamiento en caché de páginas con Memcached{w3tc_pagecache_reject_reason}
+
+Served from: www.uexternado.edu.co @ 2024-09-09 19:09:59 by W3 Total Cache
+-->

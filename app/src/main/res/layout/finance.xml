@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/fondo"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FECHA"
+        tools:layout_editor_absoluteX="87dp"
+        tools:layout_editor_absoluteY="135dp" />
+
+    <Button
+        android:id="@+id/buttonSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GUARDAR"
+        tools:layout_editor_absoluteX="77dp"
+        tools:layout_editor_absoluteY="574dp" />
+
+    <Button
+        android:id="@+id/buttonCalc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CALCULAR"
+        tools:layout_editor_absoluteX="225dp"
+        tools:layout_editor_absoluteY="574dp" />
+
+    <EditText
+        android:id="@+id/conceptIncome"
+        android:layout_width="155dp"
+        android:layout_height="35dp"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="32dp"
+        tools:layout_editor_absoluteY="238dp" />
+
+    <TextView
+        android:id="@+id/calc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CALCULO"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="373dp" />
+
+    <TextView
+        android:id="@+id/totalCalc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TOTAL EGRESOS"
+        tools:layout_editor_absoluteX="32dp"
+        tools:layout_editor_absoluteY="436dp" />
+
+    <TextView
+        android:id="@+id/income"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="INGRESOS"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="208dp" />
+
+    <TextView
+        android:id="@+id/expenses"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EGRESOS"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="287dp" />
+
+    <EditText
+        android:id="@+id/editTextNumber5"
+        android:layout_width="154dp"
+        android:layout_height="33dp"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="196dp"
+        tools:layout_editor_absoluteY="322dp" />
+
+    <EditText
+        android:id="@+id/editTextNumber7"
+        android:layout_width="154dp"
+        android:layout_height="33dp"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="201dp"
+        tools:layout_editor_absoluteY="401dp" />
+
+    <EditText
+        android:id="@+id/editTextNumber10"
+        android:layout_width="154dp"
+        android:layout_height="33dp"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="196dp"
+        tools:layout_editor_absoluteY="489dp" />
+
+    <EditText
+        android:id="@+id/editTextNumber8"
+        android:layout_width="155dp"
+        android:layout_height="35dp"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="401dp" />
+
+    <EditText
+        android:id="@+id/editTextNumber6"
+        android:layout_width="155dp"
+        android:layout_height="35dp"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="320dp" />
+
+    <TextView
+        android:id="@+id/totalIncome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TOTAL INGRESOS"
+        tools:layout_editor_absoluteX="201dp"
+        tools:layout_editor_absoluteY="434dp" />
+
+    <EditText
+        android:id="@+id/editTextNumber2"
+        android:layout_width="154dp"
+        android:layout_height="33dp"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="201dp"
+        tools:layout_editor_absoluteY="238dp" />
+
+    <TextView
+        android:id="@+id/finace"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FINANZAS"
+        tools:layout_editor_absoluteX="180dp"
+        tools:layout_editor_absoluteY="57dp" />
+
+    <TextView
+        android:id="@+id/total"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TOTAL"
+        tools:layout_editor_absoluteX="196dp"
+        tools:layout_editor_absoluteY="522dp" />
+
+    <EditText
+        android:id="@+id/date"
+        android:layout_width="166dp"
+        android:layout_height="34dp"
+        android:ems="10"
+        android:inputType="date"
+        tools:layout_editor_absoluteX="147dp"
+        tools:layout_editor_absoluteY="135dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
