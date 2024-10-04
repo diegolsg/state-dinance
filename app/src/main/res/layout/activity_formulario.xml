@@ -2,9 +2,10 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
-
+    android:layout_height="match_parent"
+    tools:context=".Formulario">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/constraintLayout"
@@ -19,9 +20,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="60dp"
+            android:drawableRight="@android:drawable/ic_lock_idle_lock"
+            android:drawableTint="@color/black"
             android:ems="10"
             android:hint="Contraseña"
             android:inputType="textPassword"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.497"
             app:layout_constraintStart_toStartOf="parent"
@@ -32,9 +37,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="60dp"
+            android:drawableRight="@android:drawable/ic_menu_call"
+            android:drawableTint="@color/black"
             android:ems="10"
             android:hint="Telefono"
             android:inputType="phone"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.497"
             app:layout_constraintStart_toStartOf="parent"
@@ -48,6 +57,8 @@
             android:ems="10"
             android:hint="Apellidos"
             android:inputType="text"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.497"
             app:layout_constraintStart_toStartOf="parent"
@@ -71,6 +82,8 @@
             android:ems="10"
             android:hint="Nombres"
             android:inputType="text"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.497"
             app:layout_constraintStart_toStartOf="parent"
@@ -81,10 +94,31 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="60dp"
+            android:drawableRight="@android:drawable/ic_lock_idle_lock"
+            android:drawableTint="@color/black"
             android:ems="10"
             android:hint="Verificación contraseña"
             android:inputType="textPassword"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/password" />
+
+        <EditText
+            android:id="@+id/txtUsuario"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="124dp"
+            android:drawableRight="@android:drawable/star_big_off"
+            android:drawableTint="@color/black"
+            android:ems="10"
+            android:hint="Usuario"
+            android:inputType="text"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="@+id/password" />
 
@@ -93,24 +127,52 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="56dp"
+            android:drawableRight="@android:drawable/ic_dialog_email"
+            android:drawableTint="@color/black"
             android:ems="10"
             android:hint="Email"
             android:inputType="textEmailAddress"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.497"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="@+id/telephone" />
 
         <Button
-            android:id="@+id/saveUser"
-            android:layout_width="172dp"
-            android:layout_height="56dp"
-            android:layout_marginTop="128dp"
+            android:id="@+id/saveUser2"
+            android:layout_width="127dp"
+            android:layout_height="46dp"
+            android:layout_marginTop="148dp"
+            android:layout_marginEnd="60dp"
             android:backgroundTint="#0E061D"
             android:text="GUARDAR"
+            android:textColor="@color/white"
+            app:rippleColor="@color/white"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/passwordVerify" />
+
+        <Button
+            android:id="@+id/saveUser"
+            android:layout_width="141dp"
+            android:layout_height="48dp"
+            android:layout_marginStart="60dp"
+            android:layout_marginTop="148dp"
+            android:backgroundTint="#0E061D"
+            android:text="ACTUALIZAR"
+            android:textColor="@color/white"
+            app:rippleColor="@color/white"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="@+id/passwordVerify" />
+
+        <ImageButton
+            android:id="@+id/imageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#2A212A"
+            app:srcCompat="@android:drawable/ic_menu_revert"
+            tools:layout_editor_absoluteX="339dp"
+            tools:layout_editor_absoluteY="51dp" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
     <TextView
@@ -122,11 +184,13 @@
         android:text="FORMULARIO"
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+        android:textColor="@color/black"
         android:textFontWeight="18"
         android:textSize="34sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
