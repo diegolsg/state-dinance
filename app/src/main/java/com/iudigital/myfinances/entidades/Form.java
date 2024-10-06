@@ -5,32 +5,42 @@ import com.orm.SugarRecord;
 import java.util.List;
 
 public class Form extends SugarRecord<Form> {
+    private String documento;
     private String nombre;
     private String apellido;
-    private String numeroDocumento;
     private String telefono;
     private String email;
     private String password;
     private String confirmacion;
     private String usuario;
 
-    public Form(String nombre, String usuario, String confirmacion, String email, String telefono,
-                String numeroDocumento, String apellido, String password) {
+    public Form(String documento, String nombre, String apellido, String telefono,
+                String email, String password, String confirmacion, String usuario) {
+        this.documento = documento;
         this.nombre = nombre;
-        this.usuario = usuario;
-        this.confirmacion = confirmacion;
-        this.email = email;
-        this.telefono = telefono;
-        this.numeroDocumento = numeroDocumento;
         this.apellido = apellido;
+        this.telefono = telefono;
+        this.email = email;
         this.password = password;
+        this.confirmacion = confirmacion;
+        this.usuario = usuario;
     }
 
     public Form() {
     }
 
-    public List<Finance> getFinances() {
-        return Finance.find(Finance.class, "form = ?", String.valueOf(this.getId()));
+    public Form(String usuario, String password, String email) {
+        this.usuario = usuario;
+        this.password = password;
+        this.email = email;
+    }
+
+    public String getDocumento() {
+        return documento;
+    }
+
+    public void setDocumento(String documento) {
+        this.documento = documento;
     }
 
     public String getNombre() {
@@ -47,14 +57,6 @@ public class Form extends SugarRecord<Form> {
 
     public void setApellido(String apellido) {
         this.apellido = apellido;
-    }
-
-    public String getNumeroDocumento() {
-        return numeroDocumento;
-    }
-
-    public void setNumeroDocumento(String numeroDocumento) {
-        this.numeroDocumento = numeroDocumento;
     }
 
     public String getTelefono() {

@@ -7,17 +7,16 @@ import java.time.LocalDate;
 
 public class Finance extends SugarRecord<Finance> {
     private Form form;
+    private String tipo;
     private String concepto;
-    private BigDecimal ingreso;
-    private BigDecimal egreso;
-    private LocalDate fecha;
+    private String valor;
+    private String fecha;
 
-    public Finance(Form form, String concepto, BigDecimal ingreso,
-                   BigDecimal egreso, LocalDate fecha) {
+    public Finance(Form form, String tipo, String concepto, String valor, String fecha) {
         this.form = form;
+        this.tipo = tipo;
         this.concepto = concepto;
-        this.ingreso = ingreso;
-        this.egreso = egreso;
+        this.valor = valor;
         this.fecha = fecha;
     }
 
@@ -32,6 +31,14 @@ public class Finance extends SugarRecord<Finance> {
         this.form = form;
     }
 
+    public String getTipo() {
+        return tipo;
+    }
+
+    public void setTipo(String tipo) {
+        this.tipo = tipo;
+    }
+
     public String getConcepto() {
         return concepto;
     }
@@ -40,27 +47,19 @@ public class Finance extends SugarRecord<Finance> {
         this.concepto = concepto;
     }
 
-    public BigDecimal getIngreso() {
-        return ingreso;
+    public String getValor() {
+        return valor;
     }
 
-    public void setIngreso(BigDecimal ingreso) {
-        this.ingreso = ingreso;
+    public void setValor(String valor) {
+        this.valor = valor;
     }
 
-    public BigDecimal getEgreso() {
-        return egreso;
-    }
-
-    public void setEgreso(BigDecimal egreso) {
-        this.egreso = egreso;
-    }
-
-    public LocalDate getFecha() {
+    public String getFecha() {
         return fecha;
     }
 
-    public void setFecha(LocalDate fecha) {
+    public void setFecha(String fecha) {
         this.fecha = fecha;
     }
 }
