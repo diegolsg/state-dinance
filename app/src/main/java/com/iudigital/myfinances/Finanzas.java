@@ -86,7 +86,8 @@ public class Finanzas extends AppCompatActivity {
                 String fechaActual = LocalDate.now().toString();
                 Finance finance = new Finance(form, tipo, concepto, valor,fechaActual);
                 finance.save();
-
+                txtConcepto.setText("");
+                txtValor.setText("");
                 Toast.makeText(this, "Datos guardados correctamente", Toast.LENGTH_SHORT).show();
             } else {
                 Toast.makeText(this, "Error: Usuario no encontrado", Toast.LENGTH_SHORT).show();

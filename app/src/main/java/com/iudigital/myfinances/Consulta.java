@@ -126,12 +126,11 @@ public class Consulta extends AppCompatActivity {
         Double total =0.0;
         for(Finance suma: finances){
             if(suma.getTipo().equals("EGRESO")){
-                totalEgresos = Double.valueOf(suma.getValor());
-                totalEgresos+=totalEgresos;
+                totalEgresos += Double.valueOf(suma.getValor());
                 txtEgreso.setText(totalEgresos.toString());
             }else{
-                totalIngresos = Double.valueOf(suma.getValor());
-                totalIngresos+= totalIngresos;
+                totalIngresos += Double.valueOf(suma.getValor());
+
                 txtIngreso.setText(totalIngresos.toString());
 
             }
