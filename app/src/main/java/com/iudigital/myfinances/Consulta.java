@@ -32,9 +32,11 @@ import java.util.Map;
 public class Consulta extends AppCompatActivity {
 
     Button btnBuscar;
-    TextView txtTotal,txtEgreso,txtIngreso;
     EditText txtFechaInicio, txtFechaFin;
     private ListView listViewConsulta;
+    private TextView txtEgreso;
+    private TextView txtIngreso;
+    private TextView txtTotal;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -47,6 +49,9 @@ public class Consulta extends AppCompatActivity {
         txtFechaFin = findViewById(R.id.txtFechaFin);
         listViewConsulta = findViewById(R.id.listViewConsulta);
         btnBuscar = findViewById(R.id.btnBuscar);
+        txtEgreso = findViewById(R.id.txtEgreso);
+        txtIngreso = findViewById(R.id.txtIngreso);
+        txtTotal = findViewById(R.id.txtTotal);
 
     }
     public void  atras(View view){
@@ -68,36 +73,30 @@ public class Consulta extends AppCompatActivity {
 
     public void buscarRegistro(View view) {
         try {
-            // Formateador de fechas
+
             DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd-MM-yyyy");
 
-            // Obtener las fechas de los EditText
             String fechaInicioStr = txtFechaInicio.getText().toString();
             String fechaFinStr = txtFechaFin.getText().toString();
 
-            // Parsear las fechas
             LocalDate fechaInicio = LocalDate.parse(fechaInicioStr, formatter);
             LocalDate fechaFin = LocalDate.parse(fechaFinStr, formatter);
 
             String documentoUsuario = obtenerDocumentoUsuarioActual();
             List<Form> idForm = Form.find(Form.class,"documento = ?",documentoUsuario);
             Long idFinanzas =idForm.get(0).getId();
-            // Consultar la base de datos con Sugar ORM
+
             List<Finance> financeList = Finance.find(Finance.class,
                     "FORM = ? AND FECHA BETWEEN ? AND ?",
                      idFinanzas.toString(),fechaInicio.toString(), fechaFin.toString());
-
-
-
-            // Crear una lista de mapas para el adaptador
+            sumarIngresos(financeList);
             List<Map<String, String>> data = new ArrayList<>();
 
             for (Finance finance : financeList) {
                 if (finance.getFecha() != null && finance.getConcepto() != null) {
                     Map<String, String> map = new HashMap<>();
                     map.put("fecha", finance.getFecha().toString());
-                    map.put("concepto", finance.getConcepto().concat("        " +
-                            "            ").concat(finance.getValor()));
+                    map.put("concepto", finance.getConcepto().concat(" : " ).concat(finance.getValor()));
                     data.add(map);
                 }
             }
@@ -108,7 +107,6 @@ public class Consulta extends AppCompatActivity {
                     new int[] {android.R.id.text1, android.R.id.text2}  // Los TextViews donde se mostrará la información
             );
 
-            // Asignar el adaptador al ListView
             listViewConsulta.setAdapter(adapter);
 
         } catch (Exception e) {
@@ -116,9 +114,30 @@ public class Consulta extends AppCompatActivity {
             Toast.makeText(this, "Error al buscar registros", Toast.LENGTH_SHORT).show();
         }
     }
+
     public String obtenerDocumentoUsuarioActual() {
         SharedPreferences preferences = getSharedPreferences("miSesion", MODE_PRIVATE);
         return preferences.getString("documento", null); // Devuelve null si no está logueado
     }
+
+     public void sumarIngresos(List<Finance> finances){
+        Double totalIngresos = 0.0;
+        Double totalEgresos =0.0;
+        Double total =0.0;
+        for(Finance suma: finances){
+            if(suma.getTipo().equals("EGRESO")){
+                totalEgresos = Double.valueOf(suma.getValor());
+                totalEgresos+=totalEgresos;
+                txtEgreso.setText(totalEgresos.toString());
+            }else{
+                totalIngresos = Double.valueOf(suma.getValor());
+                totalIngresos+= totalIngresos;
+                txtIngreso.setText(totalIngresos.toString());
+
+            }
+        }
+        total = totalIngresos - totalEgresos;
+        txtTotal.setText(total.toString());
+     }
 
 }

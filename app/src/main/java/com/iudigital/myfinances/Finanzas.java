@@ -43,6 +43,9 @@ public class Finanzas extends AppCompatActivity {
         LocalDate fechaActual =LocalDate.now();
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd-MM-yyyy");
         fecha.setText(fechaActual.format(formatter));
+        String documentoUsuario = obtenerDocumentoUsuarioActual();
+        List<Form> forms = Form.find(Form.class, "documento = ?", documentoUsuario);
+        txtSaludo.setText(("BIENBENIDO!\n").concat(forms.get(0).getNombre()).concat("  ").concat(forms.get(0).getApellido()));
 
 
         ArrayList<String> elementos =new ArrayList<>();
@@ -104,9 +107,6 @@ public class Finanzas extends AppCompatActivity {
         editor.clear();
         editor.apply();
     }
-
-
-
 
     public  void consultar(View view){
         Intent intent= new Intent(Finanzas.this,Consulta.class);

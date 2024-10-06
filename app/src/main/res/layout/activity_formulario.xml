@@ -159,8 +159,8 @@
             android:id="@+id/btnGuardar"
             android:layout_width="127dp"
             android:layout_height="46dp"
-            android:layout_marginEnd="36dp"
-            android:layout_marginBottom="32dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
             android:backgroundTint="#0E061D"
             android:onClick="guardar"
             android:text="GUARDAR"
@@ -170,12 +170,27 @@
             app:rippleColor="@color/white" />
 
         <Button
-            android:id="@+id/btnActualizar"
-            android:layout_width="139dp"
-            android:layout_height="47dp"
-            android:layout_marginStart="48dp"
-            android:layout_marginBottom="32dp"
+            android:id="@+id/btnListar"
+            android:layout_width="127dp"
+            android:layout_height="46dp"
+            android:layout_marginEnd="140dp"
+            android:layout_marginBottom="64dp"
             android:backgroundTint="#0E061D"
+            android:onClick="listar"
+            android:text="LISTAR"
+            android:textColor="@color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:rippleColor="@color/white" />
+
+        <Button
+            android:id="@+id/btnActualizar"
+            android:layout_width="140dp"
+            android:layout_height="46dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginBottom="16dp"
+            android:backgroundTint="#0E061D"
+            android:onClick="actualizar"
             android:text="ACTUALIZAR"
             android:textColor="@color/white"
             app:layout_constraintBottom_toBottomOf="parent"
